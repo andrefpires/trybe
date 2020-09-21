@@ -6,7 +6,7 @@ for (let i = 0; i < numbers.length; i += 1) {
   if (numbers[i] % 2 !== 0) {
     numerosImpares.push(numbers[i]);
   }
-  contador = contador += 1;
+  contador += 1;
 };
 
 if (contador !== 0) {
