@@ -121,6 +121,9 @@ Agora vamos fazer um exercício que vai deixar claro como funções com responsa
   - Dicas:
     - Uma string é um array de caracteres, então cada elemento do array é uma letra.
     - O valor de cada numeral romano é:
+     
+     | NR  | N    |
+     |-----|------|
      | I   | 1    |
      | IV  | 4    |
      | V   | 5    |
