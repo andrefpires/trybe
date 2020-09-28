@@ -3,7 +3,7 @@
 // em nenhum lugar do código.
 
 function checkScope() {
-  'use strict';
+
   let i = 'function scope';
   if (true) {
     let i = 'block scope';
