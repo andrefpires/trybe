@@ -1,6 +1,6 @@
 ## Bloco 7.3
 
-### Praticando a implementação de testes
+### Praticando a implementação de testes (Parte I)
 
 Você vai implementar vários testes em contextos diferentes a fim de consolidar a mecânica e também a forma de pensar em testes.
 Copie as funções já implementadas e desenvolva os testes. Separe as funções em arquivos para evitar qualquer tipo de problema.
@@ -121,11 +121,11 @@ const obj3 = {
 
 // implemente seus testes aqui
 ```
-### Praticando TDD
+### Praticando TDD (Parte II)
 
 Nessa parte os exercícios estão divididos em dois grupos: primeiro, você vai escrever código baseado nos testes. Depois você lerá um código e o que ele tem que trazer de resposta. A partir disso, você escreverá testes e os usará de base para alterar o código. Como assim? Bem, vamos passo a passo!
 
-#### Escrevendo código para testes
+#### Escrevendo código para testes (Parte II.I)
 Dados os casos de testes abaixo, escreva as funções de forma a passar nos testes. **É importante nunca alterar os testes ou as variáveis já escritas no código:**
 Copie os testes já implementadas e desenvolva as funções. Separe as funções em arquivos para evitar qualquer tipo de problema.
 
@@ -187,7 +187,7 @@ expected = -1;
 output = findTheNeedle(words, 'plat');
 assert.strictEqual(output, expected);
 ```
-#### Reescrevendo funções utilizando TDD
+#### Reescrevendo funções utilizando TDD (Parte II.II)
 
 Agora mudamos um pouco: temos uma função pronta (e feita de forma errada, ou seja, sem funcionar direito), os parâmetros que devem ser passados a ela e a resposta esperada. Escreva testes de modo a entender e testar o comportamento da função e, depois, altere-a para que passe nos testes. Use os casos de teste acima como inspiração, se tiver dúvidas!
 
@@ -262,9 +262,9 @@ const parameter = [4, 10, 32, 9, 21, 90, 5, 11, 8, 6];
 const result = [5, 6];
 ```
 
-### Bônus
+### Bônus (Parte III)
 
-#### Bônus 1
+#### Bônus 1 (Parte III.I)
 
 Imagine que você vai construir uma máquina de venda automática (como essas que vendem refrigerante). A máquina aceita moedas e calcula a diferença do valor total que deve ser pago e o valor recebido da pessoa que compra. Essa máquina possui um conjunto de moedas. Você deve implementar a seguinte lógica: dado o valor do troco, a máquina retorna uma lista com as moedas que ela devolverá para a pessoa.
 
@@ -347,7 +347,7 @@ assert.deepEqual(result, expected);
 
 assert.throws(() => { getChange(100, 10); }, /^Error: paid value is not enough$/);
 ```
-#### Bônus 2
+#### Bônus 2 (Parte III.II)
 
 Escreva a função factorial para passar nos testes já implementados.
 ```javascript
@@ -381,7 +381,7 @@ assert.strictEqual(out3, exp3);
 assert.strictEqual(out4, exp4);
 assert.strictEqual(out5, exp5);
 ```
-#### Bônus 3
+#### Bônus 3 (Parte III.III)
 
 Escreva a função removeMiddle para passar nos testes já implementados.
 ```javascript
@@ -396,7 +396,7 @@ const output = removeMiddle(words);
 assert.deepEqual(output, expectedOutput);
 assert.deepEqual(words, expectedWords);
 ```
-#### Bônus 4
+#### Bônus 4 (Parte III.IV)
 
 Use a variável parameter como parâmetro da função abaixo, escreva testes para verificar se a mesma está retornando como se vê na variável result e, caso não esteja, altere o código para que ele passe nos testes.
 
@@ -415,7 +415,7 @@ const getLargestNumber = (array) => {
 const parameter = [45, 8, 2, 50, 1, 7, 99];
 const result = 99;
 ```
-#### Bônus 5
+#### Bônus 5 (Parte III.V)
 
 **Kata** ou **Code Kata** são exercícios de programação que ajudam a aprimorar as habilidades através da prática e da repetição.
 [Kata 'Verificador de senhas':](https://github.com/CodeYourFuture/js-exercises-tdd/tree/master/III.tdd-katas/password-verifier) Crie uma função `Verify()` que retorne `false` para os casos listados no repositório e `true` caso contrário. **Não é necessário fazer os itens extras (2, 3 e 4) do repositório.**
