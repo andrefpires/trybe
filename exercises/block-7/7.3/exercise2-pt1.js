@@ -14,5 +14,5 @@ function myRemove(arr, item) {
 
 assert.deepStrictEqual(myRemove(arrayTest, 3), [1, 2, 4]);
 assert.notDeepStrictEqual(myRemove(arrayTest, 3), [1, 2, 3, 4]);
-assert.notDeepStrictEqual(arrayTest, [1, 2, 3, 4], 'arrayTest não foi alterado');
+assert.deepStrictEqual(myRemove(arrayTest, 3), arrayTest, 'arrayTest foi alterado');
 assert.deepStrictEqual(myRemove(arrayTest, 5), [1, 2, 3, 4]);
