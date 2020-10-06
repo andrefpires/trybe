@@ -64,15 +64,9 @@ const books = [
 ];
 
 const smallerName = () => {
-  let nameBook = '';
-  let bookNameSize = 0;
-  books.forEach((element) => {
-    if (bookNameSize > element.name.length || bookNameSize === 0) {
-      bookNameSize = element.name.length;
-      nameBook = element.name
-    }
-  });
-  return nameBook;
+  let smallBook = [];
+  smallBook = books.sort((a, b) => a.name.length - b.name.length);
+  return smallBook[0].name;
 };
 
 assert.equal(smallerName(), 'Duna');
