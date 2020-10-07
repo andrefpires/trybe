@@ -106,6 +106,6 @@ const nameAndAge = () => {
   ));
 
   return arr.sort((a, b) => a.age - b.age);
-}
+};
 
 assert.deepEqual(nameAndAge(), expected_result);
