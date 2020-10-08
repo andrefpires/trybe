@@ -10,9 +10,10 @@ const names = [
 // minúscula.
 
 const containsA = () => {
-  let letters = names.reduce((accumulation, currentElement) => `${accumulation}` + `${currentElement}`);
-
-  return Object.values(letters).filter((element) => element === 'A' || element === 'a').length;
-}
+  let stringWords = names.reduce((accumulation, currentElement) => `${accumulation}` + `${currentElement}`)
+  let letters = stringWords.split('').filter((element) => element.toLowerCase() === 'a');
+  
+  return letters.length;
+};
 
 assert.deepEqual(containsA(), 20);
