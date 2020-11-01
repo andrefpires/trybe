@@ -11,7 +11,7 @@ const palindrome = (str) => {
   let response = 'Parameter must be a string';
 
   if (typeof str === 'string') {
-    let arrStr = str.split('');
+    const arrStr = str.split('');
     const counter = arrStr.length - 1;
     let reverseArrStr = [];
 
