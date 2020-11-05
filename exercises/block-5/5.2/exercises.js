@@ -49,3 +49,8 @@ for (let i = 1; i <= 10; i += 1) {
 for (let i = 0; i < 3; i += 1) {
   tagDivMainContent.appendChild(document.createElement('h3'));
 }
+
+// Agora que você criou muita coisa, vamos fazer algumas alterações e remoções:
+
+// 1. Adicione a classe title na tag h1 criada;
+tagH1.className = 'title';
