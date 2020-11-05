@@ -13,3 +13,7 @@ tagBody.appendChild(tagDivMainContent);
 const tagDivCenterContent = document.createElement('div');
 tagDivCenterContent.className = 'center-content';
 tagDivMainContent.appendChild(tagDivCenterContent);
+
+// 4. Adicione a tag p como filho do div criado no passo 3 e coloque algum texto;
+const tagP = document.createElement('p');
+tagDivCenterContent.appendChild(tagP);
