@@ -72,3 +72,8 @@ tagDivRigthContent.style.marginRight = 'auto';
 // 5. Troque a cor de fundo do elemento pai da div criada no passo 3
 // (aquela que possui a classe center-content) para a cor verde;
 tagDivMainContent.style.backgroundColor = 'green';
+
+// 6. Remova os dois últimos elementos (nove e dez) da lista criada no passo 8.
+const tagLi = document.querySelectorAll('li');
+tagUl.removeChild(tagLi[9]);
+tagUl.removeChild(tagLi[8]);
