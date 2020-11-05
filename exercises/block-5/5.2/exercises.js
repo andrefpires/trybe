@@ -17,3 +17,8 @@ tagDivMainContent.appendChild(tagDivCenterContent);
 // 4. Adicione a tag p como filho do div criado no passo 3 e coloque algum texto;
 const tagP = document.createElement('p');
 tagDivCenterContent.appendChild(tagP);
+
+// 5. Adicione a tag div com a classe left-content como filho da tag div criada no passo 2;
+const tagDivLeftContent = document.createElement('div');
+tagDivLeftContent.className = 'left-content';
+tagDivMainContent.appendChild(tagDivLeftContent);
