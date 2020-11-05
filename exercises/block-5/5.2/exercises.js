@@ -8,3 +8,8 @@ tagBody.appendChild(tagH1);
 const tagDivMainContent = document.createElement('div');
 tagDivMainContent.className = 'main-content';
 tagBody.appendChild(tagDivMainContent);
+
+// 3. Adicione a tag div com a classe center-content como filho da tag div criada no passo 2;
+const tagDivCenterContent = document.createElement('div');
+tagDivCenterContent.className = 'center-content';
+tagDivMainContent.appendChild(tagDivCenterContent);
