@@ -64,3 +64,7 @@ for (let i = 0; i <= 2; i += 1) {
 // 3. Remova o div criado no passo 5 (aquele que possui a
 // classe left-content). Utilize a função .removeChild();
 tagDivMainContent.removeChild(tagDivLeftContent);
+
+// 4. Centralize o div criado no passo 6 (aquele que possui a classe right-content).
+// Dica: para centralizar, basta configurar o margin-right: auto do div;
+tagDivRigthContent.style.marginRight = 'auto';
