@@ -34,3 +34,13 @@ const tagImg = document.createElement('img');
 tagImg.src = 'https://picsum.photos/200';
 tagImg.className = 'small-image';
 tagDivLeftContent.appendChild(tagImg);
+
+// 8. Adicione uma lista não ordenada com os valores de 1 a 10 por extenso como valores da lista.
+// Essa lista deve ser filha do div criado no passo 6;
+let tagUl = document.createElement('ul');
+tagDivRigthContent.appendChild(tagUl);
+for (let i = 1; i <= 10; i += 1) {
+  let tagLi = document.createElement('li');
+  tagLi.innerText = i;
+  tagUl.appendChild(tagLi); 
+}
