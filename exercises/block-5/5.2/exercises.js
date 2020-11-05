@@ -22,3 +22,8 @@ tagDivCenterContent.appendChild(tagP);
 const tagDivLeftContent = document.createElement('div');
 tagDivLeftContent.className = 'left-content';
 tagDivMainContent.appendChild(tagDivLeftContent);
+
+// 6. Adicione a tag div com a classe right-content como filho da tag div criada no passo 2;
+const tagDivRigthContent = document.createElement('div');
+tagDivRigthContent.className = 'rigth-content';
+tagDivMainContent.appendChild(tagDivRigthContent);
