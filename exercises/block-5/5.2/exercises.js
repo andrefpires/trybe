@@ -27,3 +27,10 @@ tagDivMainContent.appendChild(tagDivLeftContent);
 const tagDivRigthContent = document.createElement('div');
 tagDivRigthContent.className = 'rigth-content';
 tagDivMainContent.appendChild(tagDivRigthContent);
+
+// 7. Adicione uma imagem com src configurado para o valor https://picsum.photos/200
+// e classe small-image. Esse elemento deve ser filho do div criado no passo 5;
+const tagImg = document.createElement('img');
+tagImg.src = 'https://picsum.photos/200';
+tagImg.className = 'small-image';
+tagDivLeftContent.appendChild(tagImg);
