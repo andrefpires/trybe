@@ -60,3 +60,7 @@ let tagsH3 = document.querySelectorAll('h3');
 for (let i = 0; i <= 2; i += 1) {
   tagsH3[i].className = 'description';
 }
+
+// 3. Remova o div criado no passo 5 (aquele que possui a
+// classe left-content). Utilize a função .removeChild();
+tagDivMainContent.removeChild(tagDivLeftContent);
