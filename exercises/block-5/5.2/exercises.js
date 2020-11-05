@@ -54,3 +54,9 @@ for (let i = 0; i < 3; i += 1) {
 
 // 1. Adicione a classe title na tag h1 criada;
 tagH1.className = 'title';
+
+// 2. Adicione a classe description nas 3 tags h3 criadas;
+let tagsH3 = document.querySelectorAll('h3');
+for (let i = 0; i <= 2; i += 1) {
+  tagsH3[i].className = 'description';
+}
