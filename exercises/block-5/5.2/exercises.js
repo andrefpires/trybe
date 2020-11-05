@@ -44,3 +44,8 @@ for (let i = 1; i <= 10; i += 1) {
   tagLi.innerText = i;
   tagUl.appendChild(tagLi); 
 }
+
+// 9. Adicione 3 tags h3, todas sendo filhas do div criado no passo 2.
+for (let i = 0; i < 3; i += 1) {
+  tagDivMainContent.appendChild(document.createElement('h3'));
+}
