@@ -35,3 +35,14 @@ function addDays () {
 }
 
 addDays();
+
+// Exercise 2
+function holidayButton (string) {
+  const tagDivButtonsContainer = document.querySelector('.buttons-container');
+  const tagButton = document.createElement('button');
+  tagButton.id = 'btn-holiday';
+  tagButton.innerText = string;
+  tagDivButtonsContainer.appendChild(tagButton);
+}
+
+holidayButton('Feriados');
