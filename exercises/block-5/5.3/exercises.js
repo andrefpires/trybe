@@ -46,3 +46,35 @@ function holidayButton (string) {
 }
 
 holidayButton('Feriados');
+
+// Exercise 3
+function changeColorPropValue () {
+  let elementsLi = tagUl.childNodes;
+  let holidays = [];
+
+  for (let i = 1; i < elementsLi.length; i += 1) {
+    const classToCompare = elementsLi[i].classList[1];
+    if (classToCompare !== undefined) {
+      if (classToCompare === 'holiday') {
+        holidays.push(elementsLi[i]);
+      }
+    }
+  }
+
+  for (i in holidays) {
+    if (holidays[i].style.backgroundColor !== 'black') {
+      holidays[i].style.backgroundColor = 'black';
+      holidays[i].style.color = 'white';
+    } else {
+      holidays[i].style.backgroundColor = '#eee';
+      holidays[i].style.color = '#777';
+    }
+  }
+}
+
+function changeBackgroundColorHolidays () {
+  const catchButton = document.querySelector('#btn-holiday');
+  catchButton.addEventListener('click', changeColorPropValue);
+}
+
+changeBackgroundColorHolidays();
