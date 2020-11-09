@@ -15,6 +15,10 @@ header {
 .text {
   line-height: 12px;
   font-family: arial;
+  height: 300px;
+  width: 2000px;
+  margin-top: 20px;
+  margin-bottom: 5px;
 }
 
 .flex-container {
@@ -22,12 +26,12 @@ header {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
-  align-content: center;
+  align-items: flex-start;
+  align-content: flex-start;
 }
 
 .flex-items {
-  padding-top: 10px;
+  margin-top: 10px;
 }
 
 input {
