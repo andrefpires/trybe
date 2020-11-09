@@ -1,5 +1,5 @@
 body {
-  background-color: red;
+  background-color: 'null';
 }
 
 div {
@@ -10,14 +10,20 @@ div {
 header {
   height: 73px;
   background-color: black;
+  margin-bottom:20px;
+}
+
+p {
+  font-family: arial;
+  font-size: 20px;
+  word-wrap: break-word;
 }
 
 .text {
-  line-height: 12px;
   font-family: arial;
+  font-size: 20px;
   height: 300px;
   width: 2000px;
-  margin-top: 20px;
   margin-bottom: 5px;
 }
 
