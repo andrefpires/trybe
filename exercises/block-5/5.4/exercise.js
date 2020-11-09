@@ -3,6 +3,7 @@ const classText = document.querySelector('.text');
 let buttonBackgroundColor = document.querySelector('.button-backgroundColor');
 let buttonFontColor = document.querySelector('.button-fontColor');
 let buttonFontSize = document.querySelector('.button-fontSize');
+let buttonlineHeight = document.querySelector('.button-lineHeight');
 
 function changeBackgroundColor() {
   const inputBackgroundColor = document.querySelector('.input-backgroundColor');
@@ -27,3 +28,11 @@ function changeFontSize() {
 // fazer validação dos dados do input para changeFontSize
 
 buttonFontSize.addEventListener('click', changeFontSize);
+
+function changeLineHeight() {
+  const inputlineHeight = document.querySelector('.input-lineHeight');
+  classText.style.lineHeight = `${inputlineHeight.value}px`;
+}
+// fazer validação dos dados do input para changeLineHeight
+
+buttonlineHeight.addEventListener('click', changeLineHeight);

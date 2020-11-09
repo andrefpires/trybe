@@ -8,8 +8,13 @@ div {
 }
 
 header {
-  height: 60px;
+  height: 73px;
   background-color: black;
+}
+
+.text {
+  line-height: 12px;
+  font-family: Arial;
 }
 
 .flex-container {
@@ -27,6 +32,7 @@ header {
 
 input {
   margin-left: 5px;
+  width: 250px;
 }
 
 label {
