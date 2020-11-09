@@ -1,4 +1,37 @@
 body {
   background-color: red;
-  color: white;
 }
+
+div {
+  color: white;
+  font-size: 10px;
+}
+
+header {
+  height: 60px;
+  background-color: black;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.flex-items {
+  padding-top: 10px;
+}
+
+input {
+  margin-left: 5px;
+}
+
+label {
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+/* CSS Flexbox feito a partir do artigo: https://www.alura.com.br/artigos/css-guia-do-flexbox?gclid=Cj0KCQiAy579BRCPARIsAB6QoIaUpAN-bPCN6_VwfVxqE_M6jJz_rq3U6hSxFji7EGMFghIHiCp3KgYaAgxfEALw_wcB  */
