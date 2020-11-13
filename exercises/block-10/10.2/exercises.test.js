@@ -114,9 +114,9 @@ describe('Exercício 4', () => {
       expect.assertions(2)
       expect(result).toContain('challenge-bug-hunting-youtrybe-squad-1');
       expect(result).toContain('hackatrybe-covid');
-    })
-  })
-})
+    });
+  });
+});
 
 describe('Exercício 5', () => {
 // Para este exercício, tente adivinhar a saída dos console.log dos testes abaixo sem executá-los, e veja
@@ -132,4 +132,4 @@ describe('Exercício 5', () => {
 
     test('', () => console.log('2 - test')); // 6°
   });
-})
+});
