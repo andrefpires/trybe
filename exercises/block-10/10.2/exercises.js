@@ -10,4 +10,4 @@ const getRepos = (url) => {
 }
 
 const teste = getRepos(url);
-console.log(teste)
+teste.filter
