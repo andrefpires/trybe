@@ -96,4 +96,43 @@ describe('Exercise 3', () => {
     await expect(getUserName(7)).rejects.not.toEqual({ error: 'User with 8 not found.' });
   })
 })
-  
+
+// describe('Exercício 4', () => {
+//   const fetch = require('node-fetch');
+//   const url = 'https://api.github.com/users/tryber/repos';
+
+//   const getRepos = (url) => {
+//     return fetch(url)
+//       .then(response => response.json())
+//       .then((data) => {
+//         return data.map((repo) => repo.name)
+//       });
+//   }
+
+//   const teste = getRepos(url);
+//   console.log(teste)
+
+
+  // it('', async () => {
+  //   const url = 'https://api.github.com/users/tryber/repos';
+  //   await expect(getRepos(url)).resolves.toBe()
+
+  // })
+// })
+
+describe('Exercício 5', () => {
+// Para este exercício, tente adivinhar a saída dos console.log dos testes abaixo sem executá-los, e veja
+// se compreendeu bem o funcionamento do beforeEach e do afterEach.
+
+  beforeEach(() => console.log('1 - beforeEach')); // 1°
+  afterEach(() => console.log('1 - afterEach')); // 3°
+
+  test('', () => console.log('1 - test')); // 2°
+
+  describe('Scoped / Nested block', () => { // 4°
+    beforeEach(() => console.log('2 - beforeEach')); // 5°
+    afterEach(() => console.log('2 - afterEach')); // 7°
+
+    test('', () => console.log('2 - test')); // 6°
+  });
+})
