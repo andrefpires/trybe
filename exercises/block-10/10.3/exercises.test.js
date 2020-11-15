@@ -13,18 +13,16 @@ describe('Exercícios', () => {
     expect(exercises.generateNumbersUpToTen).toHaveBeenCalledTimes(2);
   });
 
-  const division = jest.spyOn(exercises, 'divisionOfRandomNumbers');
-
   it('Exercício 2: Função divisionOfRandomNumbers', () => {
     // 2. Com a mesma função do exercício anterior, utilizando o mock, crie uma nova implementação, que
     // deve receber dois parâmetros e retornar a divisão do primeiro pelo segundo. Essa implementação deve
     // ocorrer uma única vez. Faça os testes necessários.
-    division.mockReturnValue(10);
-    expect(typeof division()).toBe('number');
-    expect(division()).toBe(10);
-    division();
-    expect(division).toHaveBeenCalled();
-    expect(division).toHaveBeenCalledTimes(3);
+    exercises.divisionOfRandomNumbers.mockReturnValue(10);
+    expect(typeof exercises.divisionOfRandomNumbers()).toBe('number');
+    expect(exercises.divisionOfRandomNumbers()).toBe(10);
+    exercises.divisionOfRandomNumbers();
+    expect(exercises.divisionOfRandomNumbers).toHaveBeenCalled();
+    expect(exercises.divisionOfRandomNumbers).toHaveBeenCalledTimes(3);
   });
 
   // it('', () => {
