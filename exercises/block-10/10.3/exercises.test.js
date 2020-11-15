@@ -36,23 +36,41 @@ describe('Exercícios', () => {
       expect(exercises.divisionOfRandomNumbers).toHaveBeenCalledTimes(2);
     });
   });
+
   describe('Exercício 3', () => {
-    it('Funções multiplicationOfRandomNumbers e doubleReturns', () => {
+    it('Função multiplicationOfRandomNumbers', () => {
     // 3. Ainda com a mesma função do primeiro exercício, utilizando o mock, crie uma nova implementação que
     // receba três parâmetros e retorne sua multiplicação. Após fazer os devidos testes para ela, resete sua
     // implementação e crie uma nova, que receba um parâmetro e retorne seu dobro. Faça os testes necessários.
     exercises.multiplicationOfRandomNumbers();
     expect(exercises.multiplicationOfRandomNumbers).toHaveBeenCalled();
-    exercises.multiplicationOfRandomNumbers.mockReturnValueOnce(20).mockReturnValue(10);
+    exercises.multiplicationOfRandomNumbers.mockReturnValueOnce(20).mockReturnValueOnce(10);
     expect(exercises.multiplicationOfRandomNumbers(number1, number2, number3)).toBe(20);
     expect(typeof exercises.multiplicationOfRandomNumbers(number1, number2, number3)).toBe('number');
     expect(exercises.multiplicationOfRandomNumbers).toHaveBeenCalledTimes(3);
     exercises.multiplicationOfRandomNumbers.mockReset();
-    exercises.doubleReturns.mockReturnValueOnce(60).mockReturnValueOnce(30);
-    expect(exercises.doubleReturns(number1)).toBe(60);
-    expect(typeof exercises.doubleReturns(number1)).toBe('number');
-    expect(exercises.doubleReturns).toHaveBeenCalled();
-    expect(exercises.doubleReturns).toHaveBeenCalledTimes(2);
+    exercises.multiplicationOfRandomNumbers.mockImplementation((number) => {
+      return number * 2;
+    });
+    expect(exercises.multiplicationOfRandomNumbers(60)).toBe(120);
+    expect(typeof exercises.multiplicationOfRandomNumbers(number1)).toBe('number');
+    expect(exercises.multiplicationOfRandomNumbers).toHaveBeenCalled();
+    expect(exercises.multiplicationOfRandomNumbers).toHaveBeenCalledTimes(2);
     });
   });
+
+  // describe('Exercício 4', () => {
+  //   it('Funções upperCaseLetters, firstLeter e stringConcatenation', () => {
+  //     // 4. Dentro de um mesmo arquivo, crie três funções. A primeira deve receber uma string e retorná-la
+  //     // em caixa alta. A segunda deve também receber uma string e retornar só a primeira letra. A terceira
+  //     // deve receber duas strings e concatená-las. Faça o mock do arquivo. Faça uma nova implementação para
+  //     // a primeira função, mas agora ela deve retornar a string em caixa baixa. Para a segunda função, uma
+  //     // nova implementação deve retornar a última letra de uma string. A terceira deve receber três strings
+  //     // e concatená-las.
+  //     exercises.upperCaseLetters.mockImplementation((string) => {
+  //       return string.toLowerCase();
+  //     });
+  //     expect(exercises.upperCaseLetters('STROGONOFF')).toBe('strogonoff');
+  //   })
+  // });
 });
