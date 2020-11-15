@@ -21,8 +21,8 @@ const firstLetter = (string) => {
   return arrString[0];
 };
 
-const stringConcatenation = (letter1, letter2) => {
-  return `${letter1}${letter2}`;
+const stringConcatenation = (string1, string2) => {
+  return `${string1}${string2}`;
 };
 
 module.exports = {

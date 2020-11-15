@@ -59,18 +59,42 @@ describe('Exercícios', () => {
     });
   });
 
-  // describe('Exercício 4', () => {
-  //   it('Funções upperCaseLetters, firstLeter e stringConcatenation', () => {
-  //     // 4. Dentro de um mesmo arquivo, crie três funções. A primeira deve receber uma string e retorná-la
-  //     // em caixa alta. A segunda deve também receber uma string e retornar só a primeira letra. A terceira
-  //     // deve receber duas strings e concatená-las. Faça o mock do arquivo. Faça uma nova implementação para
-  //     // a primeira função, mas agora ela deve retornar a string em caixa baixa. Para a segunda função, uma
-  //     // nova implementação deve retornar a última letra de uma string. A terceira deve receber três strings
-  //     // e concatená-las.
-  //     exercises.upperCaseLetters.mockImplementation((string) => {
-  //       return string.toLowerCase();
-  //     });
-  //     expect(exercises.upperCaseLetters('STROGONOFF')).toBe('strogonoff');
-  //   })
-  // });
+  describe('Exercício 4', () => {
+    // 4. Dentro de um mesmo arquivo, crie três funções. A primeira deve receber uma string e retorná-la
+    // em caixa alta. A segunda deve também receber uma string e retornar só a primeira letra. A terceira
+    // deve receber duas strings e concatená-las. Faça o mock do arquivo. Faça uma nova implementação para
+    // a primeira função, mas agora ela deve retornar a string em caixa baixa. Para a segunda função, uma
+    // nova implementação deve retornar a última letra de uma string. A terceira deve receber três strings
+    // e concatená-las.
+    it('Função upperCaseLetters', () => {
+      exercises.upperCaseLetters.mockImplementation((string) => {
+        return string.toLowerCase();
+      });
+      expect(exercises.upperCaseLetters('STROGONOFF')).toBe('strogonoff');
+      expect(typeof exercises.upperCaseLetters('UPPERCASE')).toBe('string');
+      expect(exercises.upperCaseLetters).toHaveBeenCalled();
+      expect(exercises.upperCaseLetters).toHaveBeenCalledTimes(2);
+    });
+
+    it('Função firstLetter', () => {
+      exercises.firstLetter.mockImplementation((string) => {
+        const arrString = string.split('');
+        return arrString[arrString.length - 1];
+      });
+      expect(exercises.firstLetter('first')).toBe('t');
+      expect(exercises.firstLetter).toHaveBeenCalled();
+      expect(typeof exercises.firstLetter('first')).toBe('string');
+      expect(exercises.firstLetter).toHaveBeenCalledTimes(2);
+    });
+
+    it('Função stringConcatenation', () => {
+      exercises.stringConcatenation.mockImplementation((string1, string2, string3) => {
+        return `${string1}${string2}${string3}`;
+      });
+      expect(exercises.stringConcatenation('Será', 'que' , 'foi?')).toBe('Seráquefoi?');
+      expect(exercises.stringConcatenation).toHaveBeenCalled();
+      expect(typeof exercises.stringConcatenation('tipo', 'de', 'dado')).toBe('string');
+      expect(exercises.stringConcatenation).toHaveBeenCalledTimes(2);
+    });
+  });
 });
