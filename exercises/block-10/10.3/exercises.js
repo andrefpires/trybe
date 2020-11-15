@@ -1,14 +1,15 @@
-let generateNumbersUpToTen = () => {
+const generateNumbersUpToTen = () => {
   const number = Math.random() * 10;
   return Math.round(number);
 };
 
-let divisionOfRandomNumbers = () => {
-  const number1 = generateNumbersUpToTen();
-  const number2 = generateNumbersUpToTen();
-
+const divisionOfRandomNumbers = (number1, number2) => {
   return number1 / number2;
 };
+
+// const multiplicationOfRandomNumbers = () => {
+
+// }
 
 module.exports = {
   generateNumbersUpToTen,

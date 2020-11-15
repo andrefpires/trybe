@@ -17,10 +17,12 @@ describe('Exercícios', () => {
     // 2. Com a mesma função do exercício anterior, utilizando o mock, crie uma nova implementação, que
     // deve receber dois parâmetros e retornar a divisão do primeiro pelo segundo. Essa implementação deve
     // ocorrer uma única vez. Faça os testes necessários.
+    const number1 = exercises.generateNumbersUpToTen();
+    const number2 = exercises.generateNumbersUpToTen();
     exercises.divisionOfRandomNumbers.mockReturnValue(10);
-    expect(typeof exercises.divisionOfRandomNumbers()).toBe('number');
-    expect(exercises.divisionOfRandomNumbers()).toBe(10);
-    exercises.divisionOfRandomNumbers();
+    expect(typeof exercises.divisionOfRandomNumbers(number1, number2)).toBe('number');
+    expect(exercises.divisionOfRandomNumbers(number1, number2)).toBe(10);
+    exercises.divisionOfRandomNumbers(number1, number2);
     expect(exercises.divisionOfRandomNumbers).toHaveBeenCalled();
     expect(exercises.divisionOfRandomNumbers).toHaveBeenCalledTimes(3);
   });
