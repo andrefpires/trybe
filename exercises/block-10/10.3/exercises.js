@@ -25,6 +25,25 @@ const stringConcatenation = (string1, string2) => {
   return `${string1}${string2}`;
 };
 
+const fetchAPI = (url) => {
+  return new Promise((resolve, reject) => {
+    if (url === 'https://dog.ceo/api/breeds/image/random') {
+      fetch(url)
+        .then(response => response.json())
+        .then(data => resolve(data));
+    } else {
+      reject(new Error('request failed'));
+    }
+  });
+};
+
+const dogPictures = async () => {
+  await fetchAPI('https://dog.ceo/api/breeds/image/random')
+    .then(data => data)
+    .catch(err => err);
+  // A requisição foi feita com base no exemplo da requisição ensinada no conteúdo do dia 9.2
+};
+
 module.exports = {
   generateNumbersUpToTen,
   divisionOfRandomNumbers,
@@ -32,4 +51,5 @@ module.exports = {
   upperCaseLetters,
   firstLetter,
   stringConcatenation,
+  dogPictures,
 };

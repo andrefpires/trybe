@@ -97,4 +97,29 @@ describe('Exercícios', () => {
       expect(exercises.stringConcatenation).toHaveBeenCalledTimes(2);
     });
   });
+
+  describe('Exercício 6', () => {
+    // 6. Crie uma função que faça requisição para a api dog pictures. Mocke a requisição e crie dois testes.
+    // O primeiro deve interpretar que a requisição se resolveu e teve como valor "request sucess". O segundo
+    // deve interpretar que a requisição falhou e ter como valor "request failed". Crie todos os testes que
+    // achar necessário.
+    exercises.dogPictures.mockReset();
+    const dogPictures = jest.spyOn(exercises, 'dogPictures');
+    it('Função dogPictures: Sucesso', () => {
+      dogPictures.mockResolvedValue('request success');
+      expect(dogPictures()).resolves.toBe('request success');
+      expect(dogPictures).toHaveBeenCalled();
+      expect(dogPictures).toHaveBeenCalledTimes(1);
+      expect(typeof dogPictures()).toBe('object');
+    });
+
+    it('Função dogPictures: Falha', () => {
+      dogPictures.mockReset();
+      dogPictures.mockRejectedValue('request failed');
+      expect(dogPictures()).rejects.toMatch('request failed');
+      expect(dogPictures).toHaveBeenCalled();
+      expect(dogPictures).toHaveBeenCalledTimes(1);
+      // expect(typeof dogPictures()).toEqual('object'); //arrumar depois
+    });
+  });
 });
