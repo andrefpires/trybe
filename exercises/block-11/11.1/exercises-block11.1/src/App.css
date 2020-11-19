@@ -1,0 +1,13 @@
+.app {
+  background-color: grey;
+}
+
+.title {
+  margin-left: 20px;
+  color:#ffffff;
+}
+
+.list {
+  color: #ffffff;
+  font-size: 16px;
+}
