@@ -2,7 +2,7 @@ import './App.css';
 
 const arrTasks = ['Arrumar cama', 'Sair pra passear com o cachorro', 'Reunião de sprint', 'Tomar remédio'];
 
-const tasks = () => arrTasks.map((element) => <li>{element}</li>)
+const tasks = () => arrTasks.map((element) => <li>{element}</li>);
 const title = <h1 className='titlesAndTexts'>Lista de compras</h1>
 const JSX = <h1 className ='titlesAndTexts'>Hello JSX!</h1>
 const JSX2 = (
@@ -15,7 +15,14 @@ const JSX2 = (
           <li>Item 3</li>
       </ul>
   </div>
-)
+);
+const JSX3 = (
+  <div>
+    <h1 className='titlesAndTexts'>This is a block of JSX</h1>
+    <p className='titlesAndTexts'>Here's a subtitle</p>
+      {/* Comment */}
+  </div>
+);
 
 function App() {
   return (
@@ -26,6 +33,7 @@ function App() {
       </ul>
       {JSX}
       {JSX2}
+      {JSX3}
     </div>
   );
 }
