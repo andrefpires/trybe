@@ -9,7 +9,7 @@ function App() {
         <h1>My pokedex</h1>
       </header>
       <div>
-        { pokemons.map((element) => <Pokemon pokemon={element}/>) };
+        { pokemons.map((element) => <Pokemon key={element.name} pokemon={element}/>) };
       </div>
     </div>
   );
