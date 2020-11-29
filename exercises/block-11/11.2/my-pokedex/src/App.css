@@ -2,4 +2,21 @@ body {
   display: flex;
   flex-direction: column;
   text-align: center;
-};
+}
+
+h3 {
+  color: green;
+}
+
+.pokedex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pokemon {
+  border: 2px solid black;
+  padding: 60px;
+  margin: 10px 30px;
+}

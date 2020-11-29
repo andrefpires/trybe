@@ -9,7 +9,6 @@ export default class Pokedex extends Component {
       <div className="pokedex">
         { allPokemonsInformations }
       </div>
-
     )
   }
 }
