@@ -1,5 +1,4 @@
-import Pokemon from './components/Pokemon';
-import pokemons from './data';
+import Pokedex from './components/Pokedex';
 import './App.css';
 
 function App() {
@@ -9,7 +8,7 @@ function App() {
         <h1>My pokedex</h1>
       </header>
       <div>
-        { pokemons.map((element) => <Pokemon key={element.name} pokemon={element}/>) };
+        <Pokedex />
       </div>
     </div>
   );

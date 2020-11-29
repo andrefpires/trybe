@@ -5,7 +5,7 @@ export default class Pokemon extends Component {
   render() {
     const { name, type, averageWeight: weight, image } = this.props.pokemon;
     return (
-      <div>
+      <div className="pokemon">
         <h3>{name}</h3>
         <h4>{type}</h4>
         <p>{weight.value}{weight.measurementUnit}</p>
