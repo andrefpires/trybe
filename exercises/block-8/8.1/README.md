@@ -2,7 +2,7 @@
 
 Estes exercícios praticam os conceitos de Higher Order Functions associados a outros já vistos, como arrow functions , template literals , objetos e temas dos fundamentos. Essa mistura de conceitos é muito importante para seu aprendizado, então use tudo o que sabe para resolver os exercícios!
 
-O objeto books será usado em todos os exercícios
+O array books será usado em todos os exercícios:
 ```javascript
 const assert = require('assert');
 
