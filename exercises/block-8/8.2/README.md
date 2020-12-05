@@ -81,7 +81,7 @@ const books = [
 
 - Dica: use as funções `filter` e `sort`.
 
-5. Crie um array em ordem alfabética apenas com os nomes de todas as pessoas autoras de ficção científica ou fantasia.
+5. Crie um array em ordem alfabética apenas com os nomes de todas as pessoas autoras de *ficção científica* ou *fantasia*.
 
 6. Crie um array com o nome de todos os livros com mais de 60 anos de publicação.
 
