@@ -15,4 +15,4 @@ Você pode usar a imaginação para estilizar a sua aplicação. Entretanto, é 
 
 Segue uma sugestão de implementação da aplicação:
 
-![Exemplo de aplicação](https://course.betrybe.com//front-end/react/components/my-pokedex-project.gif) test2
+![Exemplo de aplicação](https://course.betrybe.com//front-end/react/components/my-pokedex-project.gif)
