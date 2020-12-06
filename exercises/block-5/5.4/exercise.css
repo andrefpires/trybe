@@ -1,0 +1,53 @@
+body {
+  background-color: 'null';
+}
+
+div {
+  color: white;
+  font-size: 10px;
+}
+
+header {
+  height: 73px;
+  background-color: black;
+  margin-bottom:20px;
+}
+
+p {
+  font-family: arial;
+  font-size: 20px;
+  word-wrap: break-word;
+}
+
+.text {
+  font-family: arial;
+  font-size: 20px;
+  height: 300px;
+  width: 2000px;
+  margin-bottom: 5px;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
+.flex-items {
+  margin-top: 10px;
+}
+
+input {
+  margin-left: 5px;
+  width: 250px;
+}
+
+label {
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+/* CSS Flexbox feito a partir do artigo: https://www.alura.com.br/artigos/css-guia-do-flexbox?gclid=Cj0KCQiAy579BRCPARIsAB6QoIaUpAN-bPCN6_VwfVxqE_M6jJz_rq3U6hSxFji7EGMFghIHiCp3KgYaAgxfEALw_wcB  */
