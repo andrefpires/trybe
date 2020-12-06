@@ -13,97 +13,96 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 
 ### Bloco 2: Git & GitHub
 
- 2-1: O que é e para que serve?
- 2-2: Entendendo os comandos
- 2-3: Internet - Entendendo como ela funciona
+- [x] 2-1: O que é e para que serve?
+- [x] 2-2: Entendendo os comandos
+- [x] 2-3: Internet - Entendendo como ela funciona
 
 ### Bloco 3: Introdução - HTML & CSS
 
- 3-1: HTML & CSS - Estruturas de página
- 3-2: HTML & CSS - Primeiros passos em CSS
- 3-3: HTML & CSS - Seletores e posicionamento
- 3-4: HTML Semântico
- 3-5: Projeto - HTML & CSS
+- [x] 3-1: HTML & CSS - Estruturas de página
+- [x] 3-2: HTML & CSS - Primeiros passos em CSS
+- [x] 3-3: HTML & CSS - Seletores e posicionamento
+- [x] 3-4: HTML Semântico
+- [x] 3-5: Projeto - HTML & CSS
 
 ### [Bloco 4: Introdução - JavaScript](https://github.com/andrefpires/trybe/tree/main/exercises/block-4)
 
- 4-1: JavaScript - Primeiros passos
- 4-2: JavaScript - Array e loop For
- 4-3: JavaScript - Objetos e funções
- 4-4: JavaScript - DOM e seletores
- 4-5: JavaScript - Trabalhando com elementos
- 4-6: JavaScript - Eventos
- 4-7: JavaScript - Web Storage
+- [x] 4-1: JavaScript - Primeiros passos
+- [x] 4-2: JavaScript - Array e loop For
+- [x] 4-3: JavaScript - Objetos e funções
+- [x] 4-4: JavaScript - DOM e seletores
+- [x] 4-5: JavaScript - Trabalhando com elementos
+- [x] 4-6: JavaScript - Eventos
+- [x] 4-7: JavaScript - Web Storage
 
-### Bloco 5: Introdução - JavaScript - Projetos
+### [Bloco 5: Introdução - JavaScript - Projetos](https://github.com/andrefpires/trybe/tree/main/exercises/block-5)
 
- 5-1: Projeto - Meme Generator
- 5-2: Projeto - Arte com Pixels
- 5-3: Projeto - Lista de tarefas
- 5-4: Projeto - Adivinhe a Cor
- 5-5: Projeto - Carta Misteriosa
+- [x] 5-1: Projeto - Meme Generator
+- [x] 5-2: Projeto - Arte com Pixels
+- [x] 5-3: Projeto - Lista de tarefas
+- [x] 5-4: Projeto - Adivinhe a Cor
+- [x] 5-5: Projeto - Carta Misteriosa
 
 ## Desenvolvimento Front-end
 
 ### Bloco 6: Introdução - Front-end
 
- 6-1: HTML & CSS - Forms
- 6-2: Bibliotecas JavaScript e Frameworks CSS
- 6-3: CSS Flexbox - Part 1
- 6-4: CSS Flexbox - Part 2
- 6-5: CSS Responsivo - Mobile First
- 6-6: Projeto - Página inicial do Facebook
+- [x] 6-1: HTML & CSS - Forms
+- [x] 6-2: Bibliotecas JavaScript e Frameworks CSS
+- [x] 6-3: CSS Flexbox - Part 1
+- [x] 6-4: CSS Flexbox - Part 2
+- [x] 6-5: CSS Responsivo - Mobile First
+- [x] 6-6: Projeto - Página inicial do Facebook
 
 ### Bloco 7: JavaScript ES6 & Testes Unitários
 
- 7-1: JavaScript ES6 - let, const, arrow functions e template literals
- 7-2: JavaScript ES6 - Objects
- 7-3: Testes unitários em JavaScript
- 7-4: Testando em pequenos passos
- 7-5: Projeto - JavaScript Testes Unitários
+- [x] 7-1: JavaScript ES6 - let, const, arrow functions e template literals
+- [x] 7-2: JavaScript ES6 - Objects
+- [x] 7-3: Testes unitários em JavaScript
+- [x] 7-4: Testando em pequenos passos
+- [x] 7-5: Projeto - JavaScript Testes Unitários
 
 ### Bloco 8: JavaScript ES6
 
- 8-1: JavaScript ES6 - Higher Order Functions - forEach, find, filter, some, every, sort
- 8-2: JavaScript ES6 - Higher Order Functions - map e reduce
- 8-3: JavaScript ES6 - spread operator, rest parameter, destructuring e mais
- 8-4: Projeto - Zoo functions
+- [x] 8-1: JavaScript ES6 - Higher Order Functions - forEach, find, filter, some, every, sort
+- [x] 8-2: JavaScript ES6 - Higher Order Functions - map e reduce
+- [x] 8-3: JavaScript ES6 - spread operator, rest parameter, destructuring e mais
+- [x] 8-4: Projeto - Zoo functions
 
 ### Bloco 9: Assincronicidade & Callbacks
 
- 9-1: Primeiros passos no Jest
- 9-2: JavaScript Assíncrono e Callbacks
- 9-3: JavaScript Promises
- 9-4: Projeto - Carrinho de Compras
+- [x] 9-1: Primeiros passos no Jest
+- [x] 9-2: JavaScript Assíncrono e Callbacks
+- [x] 9-3: JavaScript Promises
+- [x] 9-4: Projeto - Carrinho de Compras
 
 ### Bloco 10: Jest
 
- 10-1: Jest - Testes Assíncronos
- 10-2: Jest - Simulando comportamentos
- 10-3: Projeto - Jest Assíncrono e Mocking
+- [x] 10-1: Jest - Testes Assíncronos
+- [x] 10-2: Jest - Simulando comportamentos
+- [x] 10-3: Projeto - Jest Assíncrono e Mocking
 
 ### Bloco 11: Introdução - React
 
- 11-1: 'Hello, world!' no React!
- 11-2: Componentes React
- 11-3: Projeto - Movie Cards Library
+- [x] 11-1: 'Hello, world!' no React!
+- [x] 11-2: Componentes React
+- [x] 11-3: Projeto - Movie Cards Library
 
 ### Bloco 12: React
 
- 12-1: Components com estado
- 12-2: Eventos e formulários no React
- 12-3: Projeto - Movie Cards Library Stateful
+- [x] 12-1: Components com estado
+- [x] 12-2: Eventos e formulários no React
+- [x] 12-3: Projeto - Movie Cards Library Stateful
 
 ### Bloco 13: React
 
- 13-1: Melhorando o reuso de componentes: props.children e PropTypes
- 13-2: Ciclo de vida de componentes em React
- 13-3: React Router
- 13-4: Projeto - Movie Cards Library CRUD
+- [ ] 13-1: Ciclo de vida de componentes em React
+- [ ] 13-2: React Router
+- [ ] 13-3: Projeto - Movie Cards Library CRUD
 
 ### Bloco 14: Metodologias Ágeis
 
- 14-1: Metodologias Ágeis
+- [x] 14-1: Metodologias Ágeis
  14-2: Projeto - Frontend Online Store
 
 ### Bloco 15: Testes em React
