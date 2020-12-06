@@ -13,9 +13,9 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 
 ### Bloco 2: Git, GitHub e Internet
 
-- [x] **2.1** :arrow_right: Git & Github - O que é e para que serve
-- [x] **2.2** :arrow_right: Git & Github - Entendendo os comandos
-- [x] **2.3** :arrow_right: Internet - Entendendo como ela funciona
+- [x] **2.1**  :arrow_right:  Git & Github - O que é e para que serve
+- [x] **2.2**  :arrow_right:  Git & Github - Entendendo os comandos
+- [x] **2.3**  :arrow_right:  Internet - Entendendo como ela funciona
 
 ### Bloco 3: Introdução - HTML & CSS
 
