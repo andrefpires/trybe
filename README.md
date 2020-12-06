@@ -235,19 +235,26 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 ## Ciência da Computação
 
 ### Bloco 35: Introdução - Ciência da Computação
+
  35-1: Arquitetura de Computadores
  35-2: Arquitetura de redes
  35-3: Redes de computadores, ferramentas e segurança
  35-4: Projeto - Explorando os protocolos
-Bloco 36: Python
+
+### Bloco 36: Python
+
  35-1: Aprendendo Python
  35-2: Testes e Exceções
  35-3: Entrada e Saída de dados
  36-4: Entrada e Saída de dados
  35-5: Projeto - Tech news
-Bônus
-Animações com CSS
+
+## Bônus
+
+### Animações com CSS
+
  B-1: CSS Animations - Part 1
  B-2: CSS Animations - Part 2
  B-3: Projeto - The Daily Prophet
+
 [...]
