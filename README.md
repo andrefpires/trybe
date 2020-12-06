@@ -72,23 +72,20 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 
 ## Desenvolvimento Front-end
 
-### Bloco 11: Introdução - React
+### [Bloco 11: Introdução à React](https://github.com/andrefpires/trybe/tree/main/exercises/block-11)
 
-- [x] 11-1: 'Hello, world!' no React!
-- [x] 11-2: Componentes React
-- [x] 11-3: Projeto - Movie Cards Library
+- [x] 11.1: 'Hello, world!' no React!
+- [x] 11.2: Componentes React
 
-### Bloco 12: React
+### [Bloco 12: Componenetes com Estado, Eventos e Formulários com React](https://github.com/andrefpires/trybe/tree/main/exercises/block-12/12.1)
 
-- [x] 12-1: Components com estado
-- [x] 12-2: Eventos e formulários no React
-- [x] 12-3: Projeto - Movie Cards Library Stateful
+- [x] 12.1: Componentes com estado e eventos
+- [x] 12.2: Formulários no React
 
-### Bloco 13: React
+### Bloco 13: Ciclo de Vida de Componentes e React Router
 
-- [ ] 13-1: Ciclo de vida de componentes em React
-- [ ] 13-2: React Router
-- [ ] 13-3: Projeto - Movie Cards Library CRUD
+- [ ] 13.1: Ciclo de vida de componentes
+- [ ] 13.2: React Router
 
 ### Bloco 14: Metodologias Ágeis
 
