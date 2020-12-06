@@ -5,25 +5,25 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 
 ## Introdução - Desenvolvimento Web
 
-### Bloco 1: Introdução - Unix & Shell
+### Bloco 1: Unix, Bash e Shell Script
 
-- [x] 1-3: Unix & Bash - Part 1
-- [x] 1-4: Unix & Bash - Part 2
-- [x] 1-5: Shell Script
+- [x] 1.3: Introdução - Unix & Bash
+- [x] 1.4: Unix & Bash - Parte 1
+- [x] 1.5: Unix & Bash - Parte 2
 
-### Bloco 2: Git & GitHub
+### Bloco 2: Git, GitHub e Internet
 
-- [x] 2-1: O que é e para que serve?
-- [x] 2-2: Entendendo os comandos
-- [x] 2-3: Internet - Entendendo como ela funciona
+- [x] 2.1: O que é e para que serve
+- [x] 2.2: Entendendo os comandos
+- [x] 2.3: Internet - Entendendo como ela funciona
 
 ### Bloco 3: Introdução - HTML & CSS
 
-- [x] 3-1: HTML & CSS - Estruturas de página
-- [x] 3-2: HTML & CSS - Primeiros passos em CSS
-- [x] 3-3: HTML & CSS - Seletores e posicionamento
-- [x] 3-4: HTML Semântico
-- [x] 3-5: Projeto - HTML & CSS
+- [x] 3.1: HTML & CSS - Estruturas de página
+- [x] 3.2: HTML & CSS - Primeiros passos em CSS
+- [x] 3.3: HTML & CSS - Seletores e posicionamento
+- [x] 3.4: HTML Semântico
+- [x] 3.5: Projeto - Leassons Learned
 
 ### [Bloco 4: Introdução - JavaScript](https://github.com/andrefpires/trybe/tree/main/exercises/block-4)
 
