@@ -89,27 +89,25 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 
 ### Bloco 14: Metodologias Ágeis
 
-- [x] 14-1: Metodologias Ágeis
- 14-2: Projeto - Frontend Online Store
+- [ ] 14.1: Metodologias Ágeis
 
-### Bloco 15: Testes em React
+### Bloco 15: Testes automatizados com React Testing Library
 
- 15-1: Testando React com a React Testing Library
- 15-2: Testando React com a React Testing Library - Parte 2
- 15-3: Projeto - Testes em React
+- [ ] 15.1: React Testing Library - Primeiros passos
+- [ ] 15.2: React Testing Library - Mocks e Inputs
+- [ ] 15.3: React Testing Library - Testando React Router
 
-### Bloco 16: Introdução ao Redux
+### Bloco 16: Gerenciamento de estado com Redux
 
- 16-1: Introdução ao Redux
- 16-2: React com Redux - Parte 1
- 16-3: React com Redux - Prática
- 16-4: React com Redux - Parte 2
- 16-5: Testes síncronos com React-Redux
- 16-6: Projeto - Tabela com filtros de dados
+- [ ] 16.1: Introdução ao Redux - O estado global da aplicação
+- [ ] 16.2: Usando o Redux no React
+- [ ] 16.3: Usando o React no Redux - Prática
+- [ ] 16.4: Usando o React no Redux - Actions Assíncronas
+- [ ] 16.5: Testes em React-Redux
 
-### Bloco 17: Projeto React
+### Bloco 17: Projeto em React
 
- 17-1: Projeto - Jogo de Trivia
+- [ ] 17.1: Projeto - Jogo de Trivia
 
 ### Bloco 18: React & Context API
 
