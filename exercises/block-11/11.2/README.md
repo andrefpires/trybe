@@ -12,3 +12,7 @@ Você pode usar a imaginação para estilizar a sua aplicação. Entretanto, é 
 - imagem do pokemon.
 
 2. `Pokedex`: esse componente representa a enciclopédia de pokemons. Esse componente recebe como entrada uma lista de pokemons para serem mostrados na tela. Para cada um desses pokemons recebidos, `Pokedex` chama o componente `Pokemon`.
+
+Segue uma sugestão de implementação da aplicação:
+
+![Exemplo de aplicação](https://course.betrybe.com//front-end/react/components/my-pokedex-project.gif)
