@@ -9,11 +9,11 @@
 No Bloco 4 você desenvolveu um projeto para testar os seus conhecimentos em Javascript e lógica de programação: o **Playground functions**. Nos exercícios a seguir, você irá trabalhar com os testes para algumas funções que você criou! Aproveite para refatorá-las e usar ~todos~ os recursos que já aprendemos até aqui, como as *Higher Order Functions* e as `features` do Javascript ES6.
 
 1. Para as funções `encode` e `decode` crie os seguintes testes:
-  1. Teste se `encode` e `decode` são funções;
-  2. Para a função `encode` teste se as vogais **a**, **e**, **i**, **o**, **u** são convertidas em **1**, **2**, **3**, **4** e **5**, respectivamente;
-  3. Para a função `decode` teste se os números **1**, **2**, **3**, **4** e **5** são convertido nas vogais **a**, **e**, **i**, **o**, **u**, respectivamente;
-  4. Teste se as demais letras/números não são convertidos para cada caso;
-  5. Teste se a `string` que é retornada pelas funções têm o mesmo número de caracteres que a string passada como parâmetro.
+  - Teste se `encode` e `decode` são funções;
+  - Para a função `encode` teste se as vogais **a**, **e**, **i**, **o**, **u** são convertidas em **1**, **2**, **3**, **4** e **5**, respectivamente;
+  - Para a função `decode` teste se os números **1**, **2**, **3**, **4** e **5** são convertido nas vogais **a**, **e**, **i**, **o**, **u**, respectivamente;
+  - Teste se as demais letras/números não são convertidos para cada caso;
+  - Teste se a `string` que é retornada pelas funções têm o mesmo número de caracteres que a string passada como parâmetro.
 
 2. A função `techList` recebe como parâmetros um array contendo uma lista de tecnologias e uma string com um nome. Para cada tecnologia no array a função cria, em ordem alfabética, um objeto com a seguinte estrutura:
 ```javascript
