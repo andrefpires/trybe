@@ -1,4 +1,6 @@
-# Repositório de exercícios da [Trybe](https://www.betrybe.com/) <image src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png" width="80" height="80">
+src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png" width="80" height="80">
+
+# Repositório de exercícios da [Trybe](https://www.betrybe.com/) <image 
 
 Este repositório foi criado com o intuito de abrigar todos exercícios desenvolvidos por mim durante o período que estiver cursando
 desenvolvimento de software na Trybe. :rocket::green_heart:
