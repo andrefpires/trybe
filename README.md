@@ -7,9 +7,9 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 
 ### Bloco 1: Introdução - Unix & Shell
 
-[x] 1-3: Unix & Bash - Part 1
-[x] 1-4: Unix & Bash - Part 2
-[x] 1-5: Shell Script
+- [x] 1-3: Unix & Bash - Part 1
+- [x] 1-4: Unix & Bash - Part 2
+- [x] 1-5: Shell Script
 
 ### Bloco 2: Git & GitHub
 
