@@ -1,11 +1,11 @@
-[<image src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png" width="80" height="80">](
-www.google.com.br)
+<image src="https://uploads-ssl.webflow.com/5dbd9ce75ad64f24b67f0932/5dbee89d5ad64f08be85f340_BRANDwhite.png" >
+
 # Repositório de exercícios da [Trybe](https://www.betrybe.com/)
 
 Este repositório foi criado com o intuito de abrigar todos exercícios desenvolvidos por mim durante o período que estiver cursando
 desenvolvimento de software na Trybe. :rocket::green_heart:
 
-## Introdução - Desenvolvimento Web
+## Introdução - Desenvolvimento Web <image src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png" width="20" height="20">
 
 ### Bloco 1: Unix, Bash e Shell Script
 
