@@ -7,15 +7,15 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 
 ### Bloco 1: Unix, Bash e Shell Script
 
-- [x] **1.3** :arrow_rigth:Introdução - Unix & Shell
-- [x] **1.4** :arrow_rigth:Unix & Bash - Parte 1
-- [x] **1.5** :arrow_rigth:Unix & Bash - Parte 2
+- [x] **1.3** :arrow_right:Introdução - Unix & Shell
+- [x] **1.4** :arrow_right:Unix & Bash - Parte 1
+- [x] **1.5** :arrow_right:Unix & Bash - Parte 2
 
 ### Bloco 2: Git, GitHub e Internet
 
-- [x] **2.1** :arrow_rigth: Git & Github - O que é e para que serve
-- [x] **2.2** :arrow_rigth: Git & Github - Entendendo os comandos
-- [x] **2.3** :arrow_rigth: Internet - Entendendo como ela funciona
+- [x] **2.1** :arrow_right: Git & Github - O que é e para que serve
+- [x] **2.2** :arrow_right: Git & Github - Entendendo os comandos
+- [x] **2.3** :arrow_right: Internet - Entendendo como ela funciona
 
 ### Bloco 3: Introdução - HTML & CSS
 
