@@ -5,10 +5,9 @@
 
 Este repositório foi criado com o intuito de abrigar todos exercícios desenvolvidos por mim durante o período que estiver cursando
 desenvolvimento de software na Trybe. :rocket::green_heart:
-</div>
-<div align="center">
- <h2> Introdução - Desenvolvimento Web </h2>
- <image src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png" width="40" height="40" >
+
+## Introdução - Desenvolvimento Web
+<image src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png" width="40" height="40" >
 </div>
 
 ### Bloco 1: Unix, Bash e Shell Script
