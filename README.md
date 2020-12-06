@@ -7,14 +7,14 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 
 ### Bloco 1: Unix, Bash e Shell Script
 
-- [x] 1.3: Introdução - Unix & Bash
+- [x] 1.3: Introdução - Unix & Shell
 - [x] 1.4: Unix & Bash - Parte 1
 - [x] 1.5: Unix & Bash - Parte 2
 
 ### Bloco 2: Git, GitHub e Internet
 
-- [x] 2.1: O que é e para que serve
-- [x] 2.2: Entendendo os comandos
+- [x] 2.1: Git & Github - O que é e para que serve
+- [x] 2.2: Git & Github - Entendendo os comandos
 - [x] 2.3: Internet - Entendendo como ela funciona
 
 ### Bloco 3: Introdução - HTML & CSS
@@ -23,64 +23,54 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [x] 3.2: HTML & CSS - Primeiros passos em CSS
 - [x] 3.3: HTML & CSS - Seletores e posicionamento
 - [x] 3.4: HTML Semântico
-- [x] 3.5: Projeto - Leassons Learned
 
-### [Bloco 4: Introdução - JavaScript](https://github.com/andrefpires/trybe/tree/main/exercises/block-4)
+### [Bloco 4: Introdução - JavaScript e Lógica de programação](https://github.com/andrefpires/trybe/tree/main/exercises/block-4)
 
-- [x] 4-1: JavaScript - Primeiros passos
-- [x] 4-2: JavaScript - Array e loop For
-- [x] 4-3: JavaScript - Objetos e funções
-- [x] 4-4: JavaScript - DOM e seletores
-- [x] 4-5: JavaScript - Trabalhando com elementos
-- [x] 4-6: JavaScript - Eventos
-- [x] 4-7: JavaScript - Web Storage
+- [x] 4.1: JavaScript - Primeiros passos
+- [x] 4.2: JavaScript - Array e loop For
+- [x] 4.3: JavaScript - Lógica de programação e Algoritmos
+- [x] 4.4: JavaScript - Objetos e funções
 
-### [Bloco 5: Introdução - JavaScript - Projetos](https://github.com/andrefpires/trybe/tree/main/exercises/block-5)
+### [Bloco 5: JavaScript - DOM, Eventos e Web Storage](https://github.com/andrefpires/trybe/tree/main/exercises/block-5)
 
-- [x] 5-1: Projeto - Meme Generator
-- [x] 5-2: Projeto - Arte com Pixels
-- [x] 5-3: Projeto - Lista de tarefas
-- [x] 5-4: Projeto - Adivinhe a Cor
-- [x] 5-5: Projeto - Carta Misteriosa
+- [x] 5.1: JavaScript - DOM e Seletores
+- [x] 5.2: JavaScript - Trabalhando com elementos
+- [x] 5.3: JavaScript - Eventos
+- [x] 5.4: JavaScript - Web Storage
+
+### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
+
+- [x] 6.1: HTML & CSS - Forms
+- [x] 6.2: Bibliotecas JavaScript e Frameworks CSS
+- [x] 6.3: CSS Flexbox - Part 1
+- [x] 6.4: CSS Flexbox - Part 2
+- [x] 6.5: CSS Responsivo - Mobile First
+
+### [Bloco 7: Introdução à JavaScript ES6 & Testes Unitários](https://github.com/andrefpires/trybe/tree/main/exercises/block-7)
+
+- [x] 7.1: JavaScript ES6 - let, const, arrow functions e template literals
+- [x] 7.2: JavaScript ES6 - Objects
+- [x] 7.3: Testes unitários em JavaScript
+
+### [Bloco 8: Higher Order Functions do JavaScript ES6](https://github.com/andrefpires/trybe/tree/main/exercises/block-8)
+
+- [x] 8.1: JavaScript ES6: Higher Order Functions - forEach, find, filter, some, every, sort
+- [x] 8.2: JavaScript ES6: Higher Order Functions - map e reduce
+- [x] 8.3: JavaScript ES6: reduce
+- [x] 8.4: JavaScript ES6: spread operator, rest parameter, destructuring e mais
+
+### [Bloco 9: JavaScript Assíncrono e Promises](https://github.com/andrefpires/trybe/tree/main/exercises/block-9/9.1)
+
+- [x] 9.1: JavaScript Assíncrono e Callbacks
+- [x] 9.2: JavaScript Promises
+
+### [Bloco 10: Testes automatizados com Jest](https://github.com/andrefpires/trybe/tree/main/exercises/block-10)
+
+- [x] 10.1: Primeiros passos no Jest
+- [x] 10.2: Jest - Testes Assíncronos
+- [x] 10.3: Jest - Simulando Comportamentos
 
 ## Desenvolvimento Front-end
-
-### Bloco 6: Introdução - Front-end
-
-- [x] 6-1: HTML & CSS - Forms
-- [x] 6-2: Bibliotecas JavaScript e Frameworks CSS
-- [x] 6-3: CSS Flexbox - Part 1
-- [x] 6-4: CSS Flexbox - Part 2
-- [x] 6-5: CSS Responsivo - Mobile First
-- [x] 6-6: Projeto - Página inicial do Facebook
-
-### Bloco 7: JavaScript ES6 & Testes Unitários
-
-- [x] 7-1: JavaScript ES6 - let, const, arrow functions e template literals
-- [x] 7-2: JavaScript ES6 - Objects
-- [x] 7-3: Testes unitários em JavaScript
-- [x] 7-4: Testando em pequenos passos
-- [x] 7-5: Projeto - JavaScript Testes Unitários
-
-### Bloco 8: JavaScript ES6
-
-- [x] 8-1: JavaScript ES6 - Higher Order Functions - forEach, find, filter, some, every, sort
-- [x] 8-2: JavaScript ES6 - Higher Order Functions - map e reduce
-- [x] 8-3: JavaScript ES6 - spread operator, rest parameter, destructuring e mais
-- [x] 8-4: Projeto - Zoo functions
-
-### Bloco 9: Assincronicidade & Callbacks
-
-- [x] 9-1: Primeiros passos no Jest
-- [x] 9-2: JavaScript Assíncrono e Callbacks
-- [x] 9-3: JavaScript Promises
-- [x] 9-4: Projeto - Carrinho de Compras
-
-### Bloco 10: Jest
-
-- [x] 10-1: Jest - Testes Assíncronos
-- [x] 10-2: Jest - Simulando comportamentos
-- [x] 10-3: Projeto - Jest Assíncrono e Mocking
 
 ### Bloco 11: Introdução - React
 
