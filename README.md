@@ -19,10 +19,10 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 
 ### Bloco 3: Introdução - HTML & CSS
 
-- [x] **3.1** | :arrow_right:HTML & CSS - Estruturas de página
-- [x] **3.2** | :arrow_right:HTML & CSS - Primeiros passos em CSS
-- [x] **3.3** | :arrow_right:HTML & CSS - Seletores e posicionamento
-- [x] **3.4** | :arrow_right:HTML Semântico
+- [x] **3.1** | :arrow_right: HTML & CSS - Estruturas de página
+- [x] **3.2** | :arrow_right: HTML & CSS - Primeiros passos em CSS
+- [x] **3.3** | :arrow_right: HTML & CSS - Seletores e posicionamento
+- [x] **3.4** | :arrow_right: HTML Semântico
 
 ### [Bloco 4: Introdução - JavaScript e Lógica de programação](https://github.com/andrefpires/trybe/tree/main/exercises/block-4)
 
