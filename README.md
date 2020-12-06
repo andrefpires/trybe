@@ -1,4 +1,4 @@
-# Repositório de exercícios da [Trybe](https://www.betrybe.com/)
+# Repositório de exercícios da [Trybe](https://www.betrybe.com/) ![trybe](https://twitter.com/betrybe/photo)
 
 Este repositório foi criado com o intuito de abrigar todos exercícios desenvolvidos por mim durante o período que estiver cursando
 desenvolvimento de software na Trybe. :rocket::green_heart:
