@@ -84,41 +84,40 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 
 ### Bloco 13: Ciclo de Vida de Componentes e React Router
 
-- [ ] 13.1: Ciclo de vida de componentes
-- [ ] 13.2: React Router
+- [ ] **13.1**| :arrow_right: Ciclo de vida de componentes
+- [ ] **13.2**| :arrow_right: React Router
 
 ### Bloco 14: Metodologias Ágeis
 
-- [ ] 14.1: Metodologias Ágeis
+- [ ] **14.1**| :arrow_right: Metodologias Ágeis
 
 ### Bloco 15: Testes automatizados com React Testing Library
 
-- [ ] 15.1: React Testing Library - Primeiros passos
-- [ ] 15.2: React Testing Library - Mocks e Inputs
-- [ ] 15.3: React Testing Library - Testando React Router
+- [ ] **15.1**| :arrow_right: React Testing Library - Primeiros passos
+- [ ] **15.2**| :arrow_right: React Testing Library - Mocks e Inputs
+- [ ] **15.3**| :arrow_right: React Testing Library - Testando React Router
 
 ### Bloco 16: Gerenciamento de estado com Redux
 
-- [ ] 16.1: Introdução ao Redux - O estado global da aplicação
-- [ ] 16.2: Usando o Redux no React
-- [ ] 16.3: Usando o React no Redux - Prática
-- [ ] 16.4: Usando o React no Redux - Actions Assíncronas
-- [ ] 16.5: Testes em React-Redux
+- [ ] **16.1**| :arrow_right: Introdução ao Redux - O estado global da aplicação
+- [ ] **16.2**| :arrow_right: Usando o Redux no React
+- [ ] **16.3**| :arrow_right: Usando o React no Redux - Prática
+- [ ] **16.4**| :arrow_right: Usando o React no Redux - Actions Assíncronas
+- [ ] **16.5**| :arrow_right: Testes em React-Redux
 
 ### Bloco 17: Projeto em React
 
-- [ ] 17.1: Projeto - Jogo de Trivia
+- [ ] **17.1** :arrow_right: Projeto - Jogo de Trivia
 
-### Bloco 18: React & Context API
+### Bloco 18: Context API e React Hooks
 
- 18-1: Context API do React
- 18-2: React Hooks - useState e useContext
- 18-3: React Hooks - useEffect e Hooks customizados
- 18-4: Projeto - StarWars Datatable com Context API e Hooks
-
+ - [ ] **18.1**| :arrow_right: Context API do React
+ - [ ] **18-2**| :arrow_right: React Hooks - useState e useContext
+ - [ ] **18-3**| :arrow_right: React Hooks - useEffect e Hooks customizados
+ 
 ### Bloco 19: Projeto Final de Front-end
 
- 19-1: Projeto - App de Receitas
+- [ ] **19-1**| :arrow_right: Projeto - App de Receitas
 
 ## Desenvolvimento Back-end
 
