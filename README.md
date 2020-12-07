@@ -292,7 +292,7 @@ Repositório criado com o intuito de abrigar todos exercícios e projetos presen
 - [ ] **39.4**| :arrow_right: Listas Duplamente Ligadas
 - [ ] **39.5**| :arrow_right: Projeto: TING - Trybe Is Not Google
 
---------------------------------------------------------------------------------
+---
 <div align="center">
  
 *Criado usando como base os readmes dos repositórios de [Débora Silveria](https://github.com/deboracosilveira/trybe) e [Alexandre Faustino](https://github.com/alexandrefaustino/trybe-exercises).*
