@@ -120,6 +120,7 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [ ] **15.1**| :arrow_right: React Testing Library - Primeiros passos
 - [ ] **15.2**| :arrow_right: React Testing Library - Mocks e Inputs
 - [ ] **15.3**| :arrow_right: React Testing Library - Testando React Router
+- [ ] **15.4**| :arrow_right: Projeto: Testes em React
 
 ### Bloco 16: Gerenciamento de estado com Redux
 
@@ -128,20 +129,22 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [ ] **16.3**| :arrow_right: Usando o React no Redux - Prática
 - [ ] **16.4**| :arrow_right: Usando o React no Redux - Actions Assíncronas
 - [ ] **16.5**| :arrow_right: Testes em React-Redux
+- [ ] **16.6**| :arrow_right: Projeto: Trybe Wallet
 
 ### Bloco 17: Projeto em React
 
-- [ ] **17.1** :arrow_right: Projeto - Jogo de Trivia
+- [ ] **17.1** :arrow_right: Projeto: Jogo de Trivia
 
 ### Bloco 18: Context API e React Hooks
 
  - [ ] **18.1**| :arrow_right: Context API do React
  - [ ] **18-2**| :arrow_right: React Hooks - useState e useContext
  - [ ] **18-3**| :arrow_right: React Hooks - useEffect e Hooks customizados
+ - [ ] **18.4**| :arrow_right: Projeto: StarWars Datatable com Conext API e Hooks
  
 ### Bloco 19: Projeto Final de Front-end
 
-- [ ] **19-1**| :arrow_right: Projeto - App de Receitas
+- [ ] **19-1**| :arrow_right: Projeto: App de Receitas
 <div align="center">
 
 ## Desenvolvimento Back-end
@@ -154,40 +157,41 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [ ] **20.2**| :arrow_right: Encontrando dados em um banco de dados
 - [ ] **20.3**| :arrow_right: Filtrando dados de forma específica
 - [ ] **20.4**| :arrow_right: Manipulando tabelas
+- [ ] **20.5**| :arrow_right: Projeto: All For One
 
 ### Bloco 21: Funções SQL, JOINs e Subqueries
 
 - [ ] **21.1**| :arrow_right: Funções mais usadas no SQL
 - [ ] **21.2**| :arrow_right: Descomplicando JOINs, UNIONs e Subqueries
 - [ ] **21.3**| :arrow_right: Stored Routines & Stored Functions
-- [ ] **21.4**| :arrow_right: Projeto - Vocabulary Booster
+- [ ] **21.4**| :arrow_right: Projeto: Vocabulary Booster
 
 ### Bloco 22: Normalização e Modelagem de Bancos de dados
 
 - [ ] **22.1**| :arrow_right: Transformando ideias em um modelo de banco de dados
 - [ ] **22.2**| :arrow_right: Normalização, Formas Normais e Dumps
 - [ ] **22.3**| :arrow_right: Transformando ideias em um modelo de banco de dados - Parte 2
-- [ ] **22.4**| :arrow_right: Projeto - One For All
+- [ ] **22.4**| :arrow_right: Projeto: One For All
 
 ### Bloco 23: Introdução ao MongoDB
 
 - [ ] **23.1**| :arrow_right: Introdução - NoSQL
 - [ ] **23.2**| :arrow_right: Introdução - MongoDB
 - [ ] **23.3**| :arrow_right: Filter Operators
-- [ ] **23.4**| :arrow_right: Projeto - Data Flights
+- [ ] **23.4**| :arrow_right: Projeto: Data Flights
 
 ### Bloco 24: MongoDB: Updates Simples e Complexos
 
 - [ ] **24.1**| :arrow_right: Updates Simples
 - [ ] **24.2**| :arrow_right: Updates Complexos - Arrays - Parte 1
 - [ ] **24.3**| :arrow_right: Updates Complexos - Arrays - Parte 2
-- [ ] **24.4**| :arrow_right: Projeto - Commerce
+- [ ] **24.4**| :arrow_right: Projeto: Commerce
 
 ### Bloco 25: Aggregation Framework
 
 - [ ] **25.1**| :arrow_right: Aggregation Framework - Part 1
 - [ ] **25.2**| :arrow_right: Aggregation Framework - Part 2
-- [ ] **25.3**| :arrow_right: Projeto - Aggregations
+- [ ] **25.3**| :arrow_right: Projeto: Aggregations
 
 ### Bloco 26: Introdução ao desenvolvimento Web com NodeJS
 
@@ -196,30 +200,30 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [ ] **26.3**| :arrow_right: NodeJS - Arquitetura
 - [ ] **26.4**| :arrow_right: Express HTTP com Node.js
 - [ ] **26.5**| :arrow_right: Práticando Express
-- [ ] **26.6**| :arrow_right: Projeto - Crush Manager
+- [ ] **26.6**| :arrow_right: Projeto: Crush Manager
 
 ### Bloco 27: NodeJS: Camada de serviço e Arqutetura Rest e Restful 
 
 - [ ] **27.1**| :arrow_right: Arquitetura de Software: Camada de Model
 - [ ] **27.2**| :arrow_right: Arquitetura de Software - Camada de Controller e Service
 - [ ] **27.3**| :arrow_right: Arquitetura web - Rest e Restful
-- [ ] **27.4**| :arrow_right: Projeto - Store Manager
+- [ ] **27.4**| :arrow_right: Projeto: Store Manager
 
 ### Bloco 28: Autenticação e Upload de Arquivos
 
 - [ ] **28.1**| :arrow_right: NodeJS - JWT - (JSON Web Token)
 - [ ] **28.2**| :arrow_right: NodeJS - Upload de arquivos com Multer
-- [ ] **28.3**| :arrow_right: Projeto - Cookmaster
+- [ ] **28.3**| :arrow_right: Projeto: Cookmaster
 
 ### Bloco 29: Deployment
 
 - [ ] **29.1**| :arrow_right: Infraestrutura - Deploy com Heroku
 - [ ] **29.2**| :arrow_right: Deploy - Gerenciadores de Processos
-- [ ] **29.3**| :arrow_right: Projeto - Stranger Things
+- [ ] **29.3**| :arrow_right: Projeto: Stranger Things
 
 ### Bloco 30: Trybeer
 
-- [ ] **30.1**| :arrow_right: Projeto - Trybeer
+- [ ] **30.1**| :arrow_right: Projeto: Trybeer
 
 ### Bloco 31: Arquitetura: SOLID e ORM
 
@@ -227,18 +231,18 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [ ] **31.2**| :arrow_right: ORM - Interface da aplicação com o banco de dados
 - [ ] **31.3**| :arrow_right: ORM - Associations
 - [ ] **31.4**| :arrow_right: Boas práticas na escrita de testes
-- [ ] **31.5**| :arrow_right: Projeto - API de Blogs
+- [ ] **31.5**| :arrow_right: Projeto: API de Blogs
 
 ### Bloco 32: Sockets
 
 - [ ] **32.1**| :arrow_right: Sockets - TCP/UDP & NET
 - [ ] **32.2**| :arrow_right: Sockets - Socket.io
 - [ ] **32.3**| :arrow_right: Arquitetura de Software - Camada de View
-- [ ] **32.4**| :arrow_right: Projeto - Webchat
+- [ ] **32.4**| :arrow_right: Projeto: Webchat
 
 ### Bloco 33: Trybeer V2
 
-- [ ] **33.1**| :arrow_right: Projeto - Trybeer V2
+- [ ] **33.1**| :arrow_right: Projeto: Trybeer V2
 <div align="center">
 
 ## Ciência da Computação
@@ -250,7 +254,7 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [ ] **34.1**| :arrow_right: Arquitetura de Computadores
 - [ ] **34.2**| :arrow_right: Arquitetura de redes
 - [ ] **34.3**| :arrow_right: Redes de computadores, ferramentas e segurança
-- [ ] **34.4**| :arrow_right: Projeto - Explorando os protocolos
+- [ ] **34.4**| :arrow_right: Projeto: Explorando os protocolos
 
 ### Bloco 35: Introdução à Python e Raspagem de Dados da Web
 
@@ -258,14 +262,14 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [ ] **35.2**: :arrow_right: Entrada e Saída de dados
 - [ ] **35.3**: :arrow_right: Raspagem de dados
 - [ ] **35.4**: :arrow_right: Testes
-- [ ] **35.5**: :arrow_right: Projeto - Tech news
+- [ ] **35.5**: :arrow_right: Projeto: Tech news
 
 ### Bloco 36: Programação Orientada a Objetos e Padrões de Projeto
 
 - [ ] **36.1**| :arrow_right: Introdução à programação orientada a objetos
 - [ ] **36.2**| :arrow_right: Programação orientada a objetos na prática
 - [ ] **36.3**| :arrow_right: Padrões de projeto
-- [ ] **36.4**| :arrow_right: Projeto - Relatórios de Estoque
+- [ ] **36.4**| :arrow_right: Projeto: Relatórios de Estoque
 
 ### Bloco 37: Algoritmos e Estrutura de Dados
 
@@ -273,13 +277,13 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [ ] **37.2**| :arrow_right: Estrutura de dados I - Complexidade de Algoritmos
 - [ ] **37.3**| :arrow_right: Recursividade e Estratégias para solução de problemas
 - [ ] **37.4**| :arrow_right: Algoritmos de ordenação e busca
-- [ ] **37.5**| :arrow_right: Projeto - Algoritmos
+- [ ] **37.5**| :arrow_right: Projeto: Algoritmos
 
 ### Bloco 38: Estrutura de dados: Hash e Set
 
 - [ ] **38.1**| :arrow_right: Estrutura de dados II - Hash maps & Dict
 - [ ] **38.2**| :arrow_right: Estrutura de dados II - Set
-- [ ] **38.3**| :arrow_right: Projeto - Restaurant Orders
+- [ ] **38.3**| :arrow_right: Projeto: Restaurant Orders
 
 ### Bloco 39: Estrutura de dados: Pilhas, Filas e Listas
 
@@ -289,13 +293,4 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [ ] **39.4**| :arrow_rigth: Listas Duplamente Ligadas
 - [ ] **39.5**| :arrow_rigth: Projeto: TING - Trybe Is Not Google
 
-## Bônus
-
-### Animações com CSS
-
- B-1: CSS Animations - Part 1
- B-2: CSS Animations - Part 2
- B-3: Projeto - The Daily Prophet
-
-[...]
-
+--------------------------------------------------------------------------------
