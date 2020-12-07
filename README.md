@@ -1,12 +1,12 @@
 <div align="center">
-<image src="logotrybe.png" width="200" heigth="400">
+<image src="./logosREADME/logotrybe.png" width="200" heigth="400">
 
 ### Repositório de exercícios e projetos
 
 Repositório criado com o intuito de abrigar todos exercícios e projetos presentes na grade de ensino da Trybe, feitos por mim durante o período que estiver cursando desenvolvimento de software. :rocket::green_heart:
 
 ## Fundamentos do Desenvolvimento Web
-<image src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png" width="40" height="40" >
+<image src="./logosREADME/logotrybe2.png" width="40" height="40" >
 </div>
 
 ### Bloco 1: Unix, Bash e Shell Script
@@ -89,7 +89,7 @@ Repositório criado com o intuito de abrigar todos exercícios e projetos presen
 <div align="center">
 
 ## Desenvolvimento Front-end
-<image src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png" width="40" height="40" >
+<image src="./logosREADME/logotrybe2.png" width="40" height="40" >
 </div>
 
 ### [Bloco 11: Introdução à React](https://github.com/andrefpires/trybe/tree/main/exercises/block-11)
@@ -147,7 +147,7 @@ Repositório criado com o intuito de abrigar todos exercícios e projetos presen
 <div align="center">
 
 ## Desenvolvimento Back-end
-<image src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png" width="40" height="40" >
+<image src="./logosREADME/logotrybe2.png" width="40" height="40" >
 </div>
 
 ### Bloco 20: Introdução à SQL
@@ -245,7 +245,7 @@ Repositório criado com o intuito de abrigar todos exercícios e projetos presen
 <div align="center">
 
 ## Ciência da Computação
-<image src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png" width="40" height="40" >
+<image src="./logosREADME/logotrybe2.png" width="40" height="40" >
 </div>
 
 ### Bloco 34: Arquitetura de Computadores e Redes
