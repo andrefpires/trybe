@@ -126,55 +126,57 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 
 ## Desenvolvimento Back-end
 
-### Bloco 20: Introdução - Bancos de dados relacionais
+### Bloco 20: Introdução à SQL
 
- 20-1: Banco de dados SQL
- 20-2: Encontrando dados em um banco de dados
- 20-3: Filtrando dados de forma específica
- 20-4: Manipulando tabelas
- 20-5: Projeto - All For One
+- [ ] **20.1**| :arrow_right: Banco de dados SQL
+- [ ] **20.2**| :arrow_right: Encontrando dados em um banco de dados
+- [ ] **20.3**| :arrow_right: Filtrando dados de forma específica
+- [ ] **20.4**| :arrow_right: Manipulando tabelas
 
-### Bloco 21: Bancos de dados relacionais
+### Bloco 21: Funções SQL, JOINs e Subqueries
 
- 21-1: Funções mais usadas no SQL
- 21-2: Descomplicando JOINs e UNIONs
- 21-3: Stored Routines & Subqueries
- 21-4: Projeto - Vocabulary Booster
+- [ ] **21.1**| :arrow_right: Funções mais usadas no SQL
+- [ ] **21.2**| :arrow_right: Descomplicando JOINs, UNIONs e Subqueries
+- [ ] **21.3**| :arrow_right: Stored Routines & Stored Functions
+- [ ] **21.4**| :arrow_right: Projeto - Vocabulary Booster
 
-### Bloco 22: Bancos de dados relacionais
+### Bloco 22: Normalização e Modelagem de Bancos de dados
 
- 22-1: Transformando ideias em um modelo de banco de dados
- 22-2: Normalização, Formas Normais e Dumps
- 22-2: Transformando ideias em um modelo de banco de dados - Parte 2
- 22-3: Projeto - One For All
+- [ ] **22.1**| :arrow_right: Transformando ideias em um modelo de banco de dados
+- [ ] **22.2**| :arrow_right: Normalização, Formas Normais e Dumps
+- [ ] **22.3**| :arrow_right: Transformando ideias em um modelo de banco de dados - Parte 2
+- [ ] **22.4**| :arrow_right: Projeto - One For All
 
-### Bloco 23: Introdução - NoSQL
+### Bloco 23: Introdução ao MongoDB
 
- 23-1: MongoDB - Introdução
- 23-2: Filter Operators
- 23-3: Projeto - Data Flights
+- [ ] **23.1**| :arrow_right: Introdução - NoSQL
+- [ ] **23.2**| :arrow_right: Introdução - MongoDB
+- [ ] **23.3**| :arrow_right: Filter Operators
+- [ ] **23.4**| :arrow_right: Projeto - Data Flights
 
-### Bloco 24: Updates
+### Bloco 24: MongoDB: Updates Simples e Complexos
 
- 24-1: Updates Simples
- 24-2: Updates Complexos - Arrays - Parte 1
- 24-3: Updates Complexos - Arrays - Parte 2
- 24-4: Projeto - Commerce
+- [ ] **24.1**| :arrow_right: Updates Simples
+- [ ] **24.2**| :arrow_right: Updates Complexos - Arrays - Parte 1
+- [ ] **24.3**| :arrow_right: Updates Complexos - Arrays - Parte 2
+- [ ] **24.4**| :arrow_right: Projeto - Commerce
 
 ### Bloco 25: Aggregation Framework
 
- 25-1: Aggregation Framework - Part 1
- 25-2: Aggregation Framework - Part 2
- 25-3: Projeto - Aggregations
+- [ ] **25.1**| :arrow_right: Aggregation Framework - Part 1
+- [ ] **25.2**| :arrow_right: Aggregation Framework - Part 2
+- [ ] **25.3**| :arrow_right: Projeto - Aggregations
 
-### Bloco 26: Intro - NodeJS
+### Bloco 26: Introdução ao desenvolvimento Web com NodeJS
 
- 26-1: NodeJS - Introdução
- 26-2: NodeJS - Fluxo Assíncrono
- 26-3: NodeJS - Arquitetura
- 26-4: Projeto - A CLI of Ice and Fire
+- [ ] **26.1**| :arrow_right: Introdução - NodeJS
+- [ ] **26.2**| :arrow_right: NodeJS - Fluxo Assíncrono
+- [ ] **26.3**| :arrow_right: NodeJS - Arquitetura
+- [ ] **26.4**| :arrow-right: Express HTTP com Node.js
+- [ ] **26.5**| :arrow-right: Práticando Express
+- [ ] **26.6**| :arrow_right: Projeto - Crush Manager
 
-### Bloco 27: NodeJS
+### Bloco 27: 
 
  27-1: Express: HTTP com Node.js
  27-2: Arquitetura de Software - Introdução ao MVC
