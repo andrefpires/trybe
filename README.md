@@ -6,7 +6,7 @@
 Este repositório foi criado com o intuito de abrigar todos exercícios desenvolvidos por mim durante o período que estiver cursando
 desenvolvimento de software na Trybe. :rocket::green_heart:
 
-## Introdução - Desenvolvimento Web
+## Desenvolvimento Web
 <image src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png" width="40" height="40" >
 </div>
 
@@ -74,8 +74,11 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [x] **10.1** | :arrow_right: Primeiros passos no Jest
 - [x] **10.2** | :arrow_right: Jest - Testes Assíncronos
 - [x] **10.3** | :arrow_right: Jest - Simulando Comportamentos
+<div align="center">
 
 ## Desenvolvimento Front-end
+<image src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png" width="40" height="40" >
+</div>
 
 ### [Bloco 11: Introdução à React](https://github.com/andrefpires/trybe/tree/main/exercises/block-11)
 
@@ -172,55 +175,51 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [ ] **26.1**| :arrow_right: Introdução - NodeJS
 - [ ] **26.2**| :arrow_right: NodeJS - Fluxo Assíncrono
 - [ ] **26.3**| :arrow_right: NodeJS - Arquitetura
-- [ ] **26.4**| :arrow-right: Express HTTP com Node.js
-- [ ] **26.5**| :arrow-right: Práticando Express
+- [ ] **26.4**| :arrow_right: Express HTTP com Node.js
+- [ ] **26.5**| :arrow_right: Práticando Express
 - [ ] **26.6**| :arrow_right: Projeto - Crush Manager
 
-### Bloco 27: 
+### Bloco 27: NodeJS: Camada de serviço e Arqutetura Rest e Restful 
 
- 27-1: Express: HTTP com Node.js
- 27-2: Arquitetura de Software - Introdução ao MVC
- 27-3: Projeto - Cookmaster
+- [ ] **27.1**| :arrow_right: Arquitetura de Software: Camada de Model
+- [ ] **27.2**| :arrow_right: Arquitetura de Software - Camada de Controller e Service
+- [ ] **27.3**| :arrow_right: Arquitetura web - Rest e Restful
+- [ ] **27.4**| :arrow_right: Projeto - Store Manager
 
-### Bloco 28: NodeJS
+### Bloco 28: Autenticação e Upload de Arquivos
 
- 28-1: Arquitetura de Software - Camada de Serviço
- 28-2: Arquitetura web - Rest e Restful
- 28-3: Projeto - Store Manager
+- [ ] **28.1**| :arrow_right: NodeJS - JWT - (JSON Web Token)
+- [ ] **28.2**| :arrow_right: NodeJS - Upload de arquivos com Multer
+- [ ] **28.3**| :arrow_right: Projeto - Cookmaster
 
-### Bloco 29: NodeJS
+### Bloco 29: Deployment
 
- 29-1: NodeJS - JWT - (JSON Web Token)
- 29-2: NodeJS - Upload de arquivos com Multer
- 29-3: Projeto - Cookmaster V2
+- [ ] **29.1**| :arrow_right: Infraestrutura - Deploy com Heroku
+- [ ] **30.2**| :arrow_right: Deploy - Gerenciadores de Processos
+- [ ] **30.3**| :arrow_right: Projeto - Stranger Things
 
-### Bloco 30: Introdução - Deploy
+### Bloco 30: Trybeer
 
- 30-1: Infraestrutura - Deploy com Heroku
- 30-2: Deploy - Gerenciadores de Processos
- 30-3: Projeto - Stranger Things
+- [ ] **30.1**| :arrow_right: Projeto - Trybeer
 
-### Bloco 31: Projeto
+### Bloco 31: Arquitetura: SOLID e ORM
 
- 31-1: Projeto - Trybeer
+- [ ] **31.1**| :arrow_right: Arquitetura - Princípios SOLID
+- [ ] **31.2**| :arrow_right: ORM - Interface da aplicação com o banco de dados
+- [ ] **31.3**| :arrow_right: ORM - Associations
+- [ ] **31.4**| :arrow_right: Boas práticas na escrita de testes
+- [ ] **31.5**| :arrow_right: Projeto - API de Blogs
 
-### Bloco 32: Arquitetura de Software
+### Bloco 32: Sockets
 
- 32-1: Arquitetura - Princípios SOLID
- 32-2: ORM - Interface da aplicação com o banco de dados
- 32-3: Arquitetura de Software - DDD
- 32-4: Boas práticas na escrita de testes
- 32-3: Projeto - API de Blogs
+- [ ] **32.1**| :arrow_right: Sockets - TCP/UDP & NET
+- [ ] **32.2**| :arrow_right: Sockets - Socket.io
+- [ ] **32.3**| :arrow_right: Arquitetura de Software - Camada de View
+- [ ] **32.4**| :arrow_right: Projeto - Webchat
 
-### Bloco 33: Sockets
+### Bloco 33: Trybeer V2
 
- 30-1: Sockets - TCP/UDP & NET
- 30-2: Sockets - Socket.io
- 30-3: Projeto - Webchat
-
-### Bloco 34: Projeto
-
- 34-1: Projeto - Trybeer V2
+- [ ] **34.1**| :arrow_right: Projeto - Trybeer V2
 
 ## Ciência da Computação
 
