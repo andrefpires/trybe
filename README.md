@@ -295,5 +295,5 @@ Repositório criado com o intuito de abrigar todos exercícios e projetos presen
 --------------------------------------------------------------------------------
 <div align="center">
  
-*Criado com base nos readmes dos repositórios de [Débora Silveria](https://github.com/deboracosilveira/trybe) e [Alexandre Faustino](https://github.com/alexandrefaustino/trybe-exercises).*
+*Criado usando como base os readmes dos repositórios de [Débora Silveria](https://github.com/deboracosilveira/trybe) e [Alexandre Faustino](https://github.com/alexandrefaustino/trybe-exercises).*
 <div>
