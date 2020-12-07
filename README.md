@@ -294,3 +294,7 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [ ] **39.5**| :arrow_right: Projeto: TING - Trybe Is Not Google
 
 --------------------------------------------------------------------------------
+<div align="center">
+ 
+*Criado com base nos readmes dos repositórios de [Débora Silveria](https://github.com/deboracosilveira/trybe) e [Alexandre Faustino](https://github.com/alexandrefaustino/trybe-exercises)*
+<div>
