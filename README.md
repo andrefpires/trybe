@@ -28,7 +28,7 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [x] **3.2** | :arrow_right: HTML & CSS - Primeiros passos em CSS
 - [x] **3.3** | :arrow_right: HTML & CSS - Seletores e posicionamento
 - [x] **3.4** | :arrow_right: HTML Semântico
-- [x] **3.5** | :arrow_right: Projeto - Playground Functions
+- [x] **3.5** | :arrow_right: Projeto: Lessons Learned
 
 ### [Bloco 4: Introdução - JavaScript e Lógica de programação](https://github.com/andrefpires/trybe/tree/main/exercises/block-4)
 
@@ -36,6 +36,7 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [x] **4.2** | :arrow_right: JavaScript - Array e loop For
 - [x] **4.3** | :arrow_right: JavaScript - Lógica de programação e Algoritmos
 - [x] **4.4** | :arrow_right: JavaScript - Objetos e funções
+- [x] **4.5** | :arrow_right: Projeto: Playground Functions
 
 ### [Bloco 5: JavaScript - DOM, Eventos e Web Storage](https://github.com/andrefpires/trybe/tree/main/exercises/block-5)
 
