@@ -3,7 +3,7 @@
 
 ### Repositório de exercícios e projetos
 
-Este repositório foi criado com o intuito de abrigar todos exercícios e projetos desenvolvidos por mim durante o período que estiver cursando
+Repositório criado com o intuito de abrigar todos exercícios e projetos desenvolvidos por mim durante o período que estiver cursando
 desenvolvimento de software na Trybe. :rocket::green_heart:
 
 ## Fundamentos do Desenvolvimento Web
