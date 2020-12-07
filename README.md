@@ -28,6 +28,7 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [x] **3.2** | :arrow_right: HTML & CSS - Primeiros passos em CSS
 - [x] **3.3** | :arrow_right: HTML & CSS - Seletores e posicionamento
 - [x] **3.4** | :arrow_right: HTML Semântico
+- [x] **3.5** | :arrow_right: Projeto - Playground Functions
 
 ### [Bloco 4: Introdução - JavaScript e Lógica de programação](https://github.com/andrefpires/trybe/tree/main/exercises/block-4)
 
@@ -42,6 +43,12 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [x] **5.2** | :arrow_right: JavaScript - Trabalhando com elementos
 - [x] **5.3** | :arrow_right: JavaScript - Eventos
 - [x] **5.4** | :arrow_right: JavaScript - Web Storage
+- [x] **5.5** | :arrow_right: Projeto: Arte com Pixels
+- [x] **5.6** | :arrow_right: Projeto: Lista de Tarefas
+- [x] **Bônus** | :arrow_right: Projeto: Meme Generator
+- [x] **Bônus** | :arrow_right: Projeto: Advinhe a Cor
+- [x] **Bônus** | :arrow_right: Projeto: Carta Misteriosa
+
 
 ### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 
@@ -50,12 +57,14 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [x] **6.3** | :arrow_right: CSS Flexbox - Part 1
 - [x] **6.4** | :arrow_right: CSS Flexbox - Part 2
 - [x] **6.5** | :arrow_right: CSS Responsivo - Mobile First
+- [x] **6.5** | :arrow_right: Projeto: Página inicial do Facebook
 
 ### [Bloco 7: Introdução à JavaScript ES6 & Testes Unitários](https://github.com/andrefpires/trybe/tree/main/exercises/block-7)
 
 - [x] **7.1** | :arrow_right: JavaScript ES6 - let, const, arrow functions e template literals
 - [x] **7.2** | :arrow_right: JavaScript ES6 - Objects
 - [x] **7.3** | :arrow_right: Testes unitários em JavaScript
+- [x] **7.4** | :arrow_right: Projeto: JavaScript Testes Unitários
 
 ### [Bloco 8: Higher Order Functions do JavaScript ES6](https://github.com/andrefpires/trybe/tree/main/exercises/block-8)
 
@@ -63,17 +72,20 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 - [x] **8.2** | :arrow_right: JavaScript ES6: Higher Order Functions - map e reduce
 - [x] **8.3** | :arrow_right: JavaScript ES6: reduce
 - [x] **8.4** | :arrow_right: JavaScript ES6: spread operator, rest parameter, destructuring e mais
+- [x] **8.5** | :arrow_right: Projeto: Zoo Functions
 
 ### [Bloco 9: JavaScript Assíncrono e Promises](https://github.com/andrefpires/trybe/tree/main/exercises/block-9/9.1)
 
 - [x] **9.1** | :arrow_right: JavaScript Assíncrono e Callbacks
 - [x] **9.2** | :arrow_right: JavaScript Promises
+- [x] **9.3** | :arrow_right: Projeto: Carrinho de Compras
 
 ### [Bloco 10: Testes automatizados com Jest](https://github.com/andrefpires/trybe/tree/main/exercises/block-10)
 
 - [x] **10.1** | :arrow_right: Primeiros passos no Jest
 - [x] **10.2** | :arrow_right: Jest - Testes Assíncronos
 - [x] **10.3** | :arrow_right: Jest - Simulando Comportamentos
+- [x] **10.4** | :arrow_right: Projeto: Jest Assíncrono e Mocking
 <div align="center">
 
 ## Desenvolvimento Front-end
@@ -84,16 +96,19 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 
 - [x] **11.1** | :arrow_right: 'Hello, world!' no React!
 - [x] **11.2** | :arrow_right: Componentes React
+- [x] **11.3** | :arrow_right: Projeto: Movie Card Library
 
 ### [Bloco 12: Componenetes com Estado, Eventos e Formulários com React](https://github.com/andrefpires/trybe/tree/main/exercises/block-12/12.1)
 
 - [x] **12.1** | :arrow_right: Componentes com estado e eventos
 - [x] **12.2** | :arrow_right: Formulários no React
+- [x] **12.3** | :arrow_right: Projeto: Movie Card Library Stateful
 
 ### Bloco 13: Ciclo de Vida de Componentes e React Router
 
 - [ ] **13.1**| :arrow_right: Ciclo de vida de componentes
 - [ ] **13.2**| :arrow_right: React Router
+- [ ] **13.3**| :arrow_right: Projeto: Movie Card Library CRUD 
 
 ### Bloco 14: Metodologias Ágeis
 
@@ -198,8 +213,8 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 ### Bloco 29: Deployment
 
 - [ ] **29.1**| :arrow_right: Infraestrutura - Deploy com Heroku
-- [ ] **30.2**| :arrow_right: Deploy - Gerenciadores de Processos
-- [ ] **30.3**| :arrow_right: Projeto - Stranger Things
+- [ ] **29.2**| :arrow_right: Deploy - Gerenciadores de Processos
+- [ ] **29.3**| :arrow_right: Projeto - Stranger Things
 
 ### Bloco 30: Trybeer
 
@@ -222,27 +237,56 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 
 ### Bloco 33: Trybeer V2
 
-- [ ] **34.1**| :arrow_right: Projeto - Trybeer V2
+- [ ] **33.1**| :arrow_right: Projeto - Trybeer V2
 <div align="center">
 
 ## Ciência da Computação
 <image src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png" width="40" height="40" >
 </div>
 
-### Bloco 35: Introdução - Ciência da Computação
+### Bloco 34: Arquitetura de Computadores e Redes
 
- 35-1: Arquitetura de Computadores
- 35-2: Arquitetura de redes
- 35-3: Redes de computadores, ferramentas e segurança
- 35-4: Projeto - Explorando os protocolos
+- [ ] **34.1**| :arrow_right: Arquitetura de Computadores
+- [ ] **34.2**| :arrow_right: Arquitetura de redes
+- [ ] **34.3**| :arrow_right: Redes de computadores, ferramentas e segurança
+- [ ] **34.4**| :arrow_right: Projeto - Explorando os protocolos
 
-### Bloco 36: Python
+### Bloco 35: Introdução à Python e Raspagem de Dados da Web
 
- 35-1: Aprendendo Python
- 35-2: Testes e Exceções
- 35-3: Entrada e Saída de dados
- 36-4: Entrada e Saída de dados
- 35-5: Projeto - Tech news
+- [ ] **35.1**: :arrow_right: Aprendendo Python
+- [ ] **35.2**: :arrow_right: Entrada e Saída de dados
+- [ ] **35.3**: :arrow_right: Raspagem de dados
+- [ ] **35.4**: :arrow_right: Testes
+- [ ] **35.5**: :arrow_right: Projeto - Tech news
+
+### Bloco 36: Programação Orientada a Objetos e Padrões de Projeto
+
+- [ ] **36.1**| :arrow_right: Introdução à programação orientada a objetos
+- [ ] **36.2**| :arrow_right: Programação orientada a objetos na prática
+- [ ] **36.3**| :arrow_right: Padrões de projeto
+- [ ] **36.4**| :arrow_right: Projeto - Relatórios de Estoque
+
+### Bloco 37: Algoritmos e Estrutura de Dados
+
+- [ ] **37.1**| :arrow_right: Estrutura de dados I - Arrays
+- [ ] **37.2**| :arrow_right: Estrutura de dados I - Complexidade de Algoritmos
+- [ ] **37.3**| :arrow_right: Recursividade e Estratégias para solução de problemas
+- [ ] **37.4**| :arrow_right: Algoritmos de ordenação e busca
+- [ ] **37.5**| :arrow_right: Projeto - Algoritmos
+
+### Bloco 38: Estrutura de dados: Hash e Set
+
+- [ ] **38.1**| :arrow_right: Estrutura de dados II - Hash maps & Dict
+- [ ] **38.2**| :arrow_right: Estrutura de dados II - Set
+- [ ] **38.3**| :arrow_right: Projeto - Restaurant Orders
+
+### Bloco 39: Estrutura de dados: Pilhas, Filas e Listas
+
+- [ ] **39.1**| :arrow_rigth: Estruturas de dados III - Pilhas
+- [ ] **39.2**| :arrow_rigth: Estruturas de dados III - Deque
+- [ ] **39.3**| :arrow_rigth: Estruturas de dados III - Nó & Linhas
+- [ ] **39.4**| :arrow_rigth: Listas Duplamente Ligadas
+- [ ] **39.5**| :arrow_rigth: Projeto: TING - Trybe Is Not Google
 
 ## Bônus
 
