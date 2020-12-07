@@ -6,7 +6,7 @@
 Repositório criado com o intuito de abrigar todos exercícios e projetos presentes na grade de ensino da Trybe, feitos por mim durante o período que estiver cursando desenvolvimento de software. :rocket::green_heart:
 
 ## Fundamentos do Desenvolvimento Web
-<image src="./logosREADME/logotrybe2.png" width="20" height="20" >
+<image src="./logosREADME/logotrybe2.png" width="40" height="40" >
 </div>
 
 ### Bloco 1: Unix, Bash e Shell Script
