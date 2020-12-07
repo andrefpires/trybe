@@ -287,10 +287,10 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 
 ### Bloco 39: Estrutura de dados: Pilhas, Filas e Listas
 
-- [ ] **39.1**| :arrow_rigth: Estruturas de dados III - Pilhas
-- [ ] **39.2**| :arrow_rigth: Estruturas de dados III - Deque
-- [ ] **39.3**| :arrow_rigth: Estruturas de dados III - Nó & Linhas
-- [ ] **39.4**| :arrow_rigth: Listas Duplamente Ligadas
-- [ ] **39.5**| :arrow_rigth: Projeto: TING - Trybe Is Not Google
+- [ ] **39.1**| :arrow_right: Estruturas de dados III - Pilhas
+- [ ] **39.2**| :arrow_right: Estruturas de dados III - Deque
+- [ ] **39.3**| :arrow_right: Estruturas de dados III - Nó & Linhas
+- [ ] **39.4**| :arrow_right: Listas Duplamente Ligadas
+- [ ] **39.5**| :arrow_right: Projeto: TING - Trybe Is Not Google
 
 --------------------------------------------------------------------------------
