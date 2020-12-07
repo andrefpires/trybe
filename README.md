@@ -3,8 +3,7 @@
 
 ### Repositório de exercícios e projetos
 
-Repositório criado com o intuito de abrigar todos exercícios e projetos desenvolvidos por mim durante o período que estiver cursando
-desenvolvimento de software na Trybe. :rocket::green_heart:
+Repositório criado com o intuito de abrigar todos exercícios e projetos presentes na grade de ensino da Trybe, feitos por mim durante o período que estiver cursando desenvolvimento de software. :rocket::green_heart:
 
 ## Fundamentos do Desenvolvimento Web
 <image src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png" width="40" height="40" >
@@ -296,5 +295,5 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 --------------------------------------------------------------------------------
 <div align="center">
  
-*Criado com base nos readmes dos repositórios de [Débora Silveria](https://github.com/deboracosilveira/trybe) e [Alexandre Faustino].(https://github.com/alexandrefaustino/trybe-exercises)*
+*Criado com base nos readmes dos repositórios de [Débora Silveria](https://github.com/deboracosilveira/trybe) e [Alexandre Faustino](https://github.com/alexandrefaustino/trybe-exercises).*
 <div>
