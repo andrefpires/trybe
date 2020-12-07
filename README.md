@@ -126,8 +126,11 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 ### Bloco 19: Projeto Final de Front-end
 
 - [ ] **19-1**| :arrow_right: Projeto - App de Receitas
+<div align="center">
 
 ## Desenvolvimento Back-end
+<image src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png" width="40" height="40" >
+</div>
 
 ### Bloco 20: Introdução à SQL
 
@@ -220,8 +223,11 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 ### Bloco 33: Trybeer V2
 
 - [ ] **34.1**| :arrow_right: Projeto - Trybeer V2
+<div align="center">
 
 ## Ciência da Computação
+<image src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png" width="40" height="40" >
+</div>
 
 ### Bloco 35: Introdução - Ciência da Computação
 
