@@ -296,5 +296,5 @@ desenvolvimento de software na Trybe. :rocket::green_heart:
 --------------------------------------------------------------------------------
 <div align="center">
  
-*Criado com base nos readmes dos repositórios de [Débora Silveria](https://github.com/deboracosilveira/trybe) e [Alexandre Faustino](https://github.com/alexandrefaustino/trybe-exercises)*
+*Criado com base nos readmes dos repositórios de [Débora Silveria](https://github.com/deboracosilveira/trybe) e [Alexandre Faustino].(https://github.com/alexandrefaustino/trybe-exercises)*
 <div>
