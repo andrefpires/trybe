@@ -1,5 +1,5 @@
 <div align="center">
-<image src="logotrybe.png" width="300" heigth="600">
+<image src="logotrybe.png" width="200" heigth="400">
 
 ### Repositório de exercícios e projetos
 
