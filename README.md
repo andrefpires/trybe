@@ -5,7 +5,7 @@
 
 Repositório criado com o intuito de abrigar todos exercícios e projetos presentes na grade de ensino da Trybe, feitos por mim durante o período que estiver cursando desenvolvimento de software. :rocket::green_heart:
 
-## Fundamentos do Desenvolvimento Web
+## Módulo 1 - Fundamentos do Desenvolvimento Web
 <image src="./logosREADME/logotrybe2.png" width="40" height="40" >
 </div>
 
@@ -88,7 +88,7 @@ Repositório criado com o intuito de abrigar todos exercícios e projetos presen
 - [x] **10.4** | :arrow_right: Projeto: Jest Assíncrono e Mocking
 <div align="center">
 
-## Desenvolvimento Front-end
+## Módulo 2 - Desenvolvimento Front-end
 <image src="./logosREADME/logotrybe2.png" width="40" height="40" >
 </div>
 
@@ -244,7 +244,7 @@ Repositório criado com o intuito de abrigar todos exercícios e projetos presen
 - [ ] **33.1**| :arrow_right: Projeto: Trybeer V2
 <div align="center">
 
-## Ciência da Computação
+## Módulo 3 - Ciência da Computação
 <image src="./logosREADME/logotrybe2.png" width="40" height="40" >
 </div>
 
