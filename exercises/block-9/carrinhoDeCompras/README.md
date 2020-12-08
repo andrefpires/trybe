@@ -1,4 +1,4 @@
-# Projeto Shopping Cart
+# Projeto Carrinho de Compras
 
 ## Requisitos do projeto
 
