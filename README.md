@@ -146,7 +146,7 @@ Repositório criado com o intuito de abrigar todos exercícios e projetos presen
 - [ ] **19-1**| :arrow_right: Projeto: App de Receitas
 <div align="center">
 
-## Desenvolvimento Back-end
+## Módulo 3 - Desenvolvimento Back-end
 <image src="./logosREADME/logotrybe2.png" width="40" height="40" >
 </div>
 
@@ -244,7 +244,7 @@ Repositório criado com o intuito de abrigar todos exercícios e projetos presen
 - [ ] **33.1**| :arrow_right: Projeto: Trybeer V2
 <div align="center">
 
-## Módulo 3 - Ciência da Computação
+## Módulo 4 - Ciência da Computação
 <image src="./logosREADME/logotrybe2.png" width="40" height="40" >
 </div>
 
