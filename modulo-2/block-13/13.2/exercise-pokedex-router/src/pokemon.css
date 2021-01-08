@@ -7,6 +7,7 @@
   margin: 10px 10px;
   border: 1px gray solid;
   border-radius: 10px;
+  padding-left: 10px;
 }
 
 #pokemonDetails {
@@ -21,4 +22,12 @@
   border: 1px solid black;
   padding: 0 20px 20px 20px;
   text-align: center;
+}
+
+#about {
+  display: 'flex';
+  flex-flow: column wrap;
+  align-items: center;
+  text-align: center;
+  padding: 0 6% 0 6%;
 }
