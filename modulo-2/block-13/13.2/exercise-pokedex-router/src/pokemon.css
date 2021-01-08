@@ -9,18 +9,16 @@
   border-radius: 10px;
 }
 
-.pokemonDetails {
+#pokemonDetails {
   display: flex;
   flex-flow: column wrap;
+  align-items: center;
   align-content: center;
+
 }
 
-.pokemonDetails > div {
+#pokemonDetails > div {
   border: 1px solid black;
   padding: 0 20px 20px 20px;
   text-align: center;
-}
-
-.location {
-  padding: 0 10px 0 10px;
 }

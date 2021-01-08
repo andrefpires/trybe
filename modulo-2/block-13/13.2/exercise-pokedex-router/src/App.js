@@ -9,7 +9,9 @@ function App() {
   return (
     <BrowserRouter>
       <Route exact path="/" render={() => <Pokedex pokemons={pokemons} />} />
-      <Route path="/pokemons/:id" render={(props) => <PokemonDetails {...props} pokemons={pokemons} />}/>
+      <Route path="/pokemons/:id" render={(props) => (
+          <PokemonDetails {...props} pokemons={pokemons} />
+      )}/>
     </BrowserRouter>
   );
 }
