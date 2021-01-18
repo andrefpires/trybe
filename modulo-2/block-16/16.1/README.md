@@ -15,3 +15,5 @@ Você irá fazer 14 exercícios propostos pelo site **freecodecamp** , com objet
 [5.](https://www.freecodecamp.org/learn/front-end-libraries/redux/use-const-for-action-types) Declare `LOGIN` e `LOGOUT` como valores constantes e atribua a eles às strings 'LOGIN' e 'LOGOUT', respectivamente. Em seguida, edite a função `authReducer()` e os criadores de ação para fazer referência a essas constantes em vez de valores de string.
 
 **Nota:** Geralmente é uma convenção escrever constantes em maiúsculas, e isso também é uma prática padrão no `Redux`.
+
+[6.](https://www.freecodecamp.org/learn/front-end-libraries/redux/register-a-store-listener) Escreva uma função callback que aumente a variável global `count` sempre que a store receber uma action e passe essa como parâmetro para o método `store.subscribe()`. Você verá que `store.dispatch()` é chamado três vezes seguidas, cada vez passando diretamente um objeto de ação. Observe a saída do console entre os dispatchs de ação para ver as atualizações ocorrendo.
