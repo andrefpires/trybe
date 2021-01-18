@@ -7,3 +7,6 @@ const action = {
 const actionCreator = () => {
   return action;
 };
+
+// 2.
+store.dispatch(actionCreator());
