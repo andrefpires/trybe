@@ -29,3 +29,5 @@ Você irá fazer 14 exercícios propostos pelo site **freecodecamp** , com objet
 [11.](https://www.freecodecamp.org/learn/front-end-libraries/redux/use-the-spread-operator-on-arrays) Use o operador spread para retornar uma nova cópia do estado quando uma tarefa é adicionada.
 
 [12.](https://www.freecodecamp.org/learn/front-end-libraries/redux/remove-an-item-from-an-array) Termine de escrever o redutor para que uma nova matriz de estado seja retornada com o item no índice passado como parâtro removido.
+
+[13.](https://www.freecodecamp.org/learn/front-end-libraries/redux/copy-an-object-with-object-assign) Edite o código para retornar um novo objeto para `action` com tipo **ONLINE**, que define a propriedade status para a string `online`. Tente usar `Object.assign()` para completar o desafio.
