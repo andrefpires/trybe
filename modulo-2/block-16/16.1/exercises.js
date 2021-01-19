@@ -162,7 +162,7 @@ const decAction = () => {
 const store = Redux.createStore(counterReducer);
 // Define the Redux store here, passing in your reducers
 
-// 10;
+// 10 e 11;
 const ADD_TO_DO = 'ADD_TO_DO';
 
 // A list of strings representing tasks to do:
@@ -177,7 +177,8 @@ const immutableReducer = (state = todos, action) => {
   switch(action.type) {
     case ADD_TO_DO:
       // Don't mutate state here or the tests will fail
-      return state.concat(action.todo);
+      const { todo } = action;
+      return [state, ...todo];
     default:
       return state;
   }
@@ -187,6 +188,28 @@ const addToDo = (todo) => {
   return {
     type: ADD_TO_DO,
     todo,
+  }
+}
+
+const store = Redux.createStore(immutableReducer);
+
+// 12;
+const immutableReducer = (state = [0,1,2,3,4,5], action) => {
+  switch(action.type) {
+    case 'REMOVE_ITEM':
+      // Don't mutate state here or the tests will fail
+      let newState = [...state];
+      newState.splice(action.index, 1)
+      return newState
+    default:
+      return state;
+  }
+};
+
+const removeItem = (index) => {
+  return {
+    type: 'REMOVE_ITEM',
+    index
   }
 }
 

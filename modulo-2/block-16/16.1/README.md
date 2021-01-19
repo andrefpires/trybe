@@ -25,3 +25,7 @@ Você irá fazer 14 exercícios propostos pelo site **freecodecamp** , com objet
 [9.](https://www.freecodecamp.org/learn/front-end-libraries/redux/write-a-counter-with-redux) Nesta lição, você implementará um contador simples com `Redux` do **zero**. O básico é fornecido no editor de código, mas você terá que preencher os detalhes!
 
 [10.](https://www.freecodecamp.org/learn/front-end-libraries/redux/never-mutate-state) Termine de escrever o case ADD_TO_DO no redutor para anexar uma nova tarefa ao estado que não altera o estado atual, mas adicione uma nova tarefa.
+
+[11.](https://www.freecodecamp.org/learn/front-end-libraries/redux/use-the-spread-operator-on-arrays) Use o operador spread para retornar uma nova cópia do estado quando uma tarefa é adicionada.
+
+[12.](https://www.freecodecamp.org/learn/front-end-libraries/redux/remove-an-item-from-an-array) Termine de escrever o redutor para que uma nova matriz de estado seja retornada com o item no índice passado como parâtro removido.
