@@ -91,3 +91,11 @@ store.dispatch({type: ADD});
 console.log(count);
 store.dispatch({type: ADD});
 console.log(count);
+
+// 7;
+const rootReducer = Redux.combineReducers({
+  count: reducer,
+  auth: authReducer,
+});
+
+const store = Redux.createStore(rootReducer);
