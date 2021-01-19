@@ -23,3 +23,5 @@ Você irá fazer 14 exercícios propostos pelo site **freecodecamp** , com objet
 [8.](https://www.freecodecamp.org/learn/front-end-libraries/redux/send-action-data-to-the-store) Passando informações para o estado global da aplicação por `actions`.
 
 [9.](https://www.freecodecamp.org/learn/front-end-libraries/redux/write-a-counter-with-redux) Nesta lição, você implementará um contador simples com `Redux` do **zero**. O básico é fornecido no editor de código, mas você terá que preencher os detalhes!
+
+[10.](https://www.freecodecamp.org/learn/front-end-libraries/redux/never-mutate-state) Termine de escrever o case ADD_TO_DO no redutor para anexar uma nova tarefa ao estado que não altera o estado atual, mas adicione uma nova tarefa.
