@@ -19,3 +19,5 @@ Você irá fazer 14 exercícios propostos pelo site **freecodecamp** , com objet
 [6.](https://www.freecodecamp.org/learn/front-end-libraries/redux/register-a-store-listener) Escreva uma função callback que aumente a variável global `count` sempre que a store receber uma action e passe essa como parâmetro para o método `store.subscribe()`. Você verá que `store.dispatch()` é chamado três vezes seguidas, cada vez passando diretamente um objeto de ação. Observe a saída do console entre os dispatchs de ação para ver as atualizações ocorrendo.
 
 [7.](https://www.freecodecamp.org/learn/front-end-libraries/redux/combine-multiple-reducers) Utilizando `Redux.combineReducers()` para juntar reducers em um mesmo objeto/estado global.
+
+[8.](https://www.freecodecamp.org/learn/front-end-libraries/redux/send-action-data-to-the-store) Passando informações para o estado global da aplicação por actions.
