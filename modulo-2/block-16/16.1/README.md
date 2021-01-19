@@ -20,4 +20,6 @@ Você irá fazer 14 exercícios propostos pelo site **freecodecamp** , com objet
 
 [7.](https://www.freecodecamp.org/learn/front-end-libraries/redux/combine-multiple-reducers) Utilizando `Redux.combineReducers()` para juntar reducers em um mesmo objeto/estado global.
 
-[8.](https://www.freecodecamp.org/learn/front-end-libraries/redux/send-action-data-to-the-store) Passando informações para o estado global da aplicação por actions.
+[8.](https://www.freecodecamp.org/learn/front-end-libraries/redux/send-action-data-to-the-store) Passando informações para o estado global da aplicação por `actions`.
+
+[9.](https://www.freecodecamp.org/learn/front-end-libraries/redux/write-a-counter-with-redux) Nesta lição, você implementará um contador simples com `Redux` do **zero**. O básico é fornecido no editor de código, mas você terá que preencher os detalhes!
