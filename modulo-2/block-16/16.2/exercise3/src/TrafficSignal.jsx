@@ -1,4 +1,6 @@
 import React from 'react';
+import { connect } from 'react-redux';
+import { changeSignal } from './redux/actionCreators';
 import redSignal from './images/redSignal.jpeg';
 import greenSignal from './images/greenSignal.jpeg';
 import yellowSignal from './images/yellowSignal.jpeg';
@@ -16,7 +18,7 @@ const renderSignal = (signalColor) => {
   return null;
 };
 
-export default function TrafficSignal({ signalColor, changeSignal }) {
+function TrafficSignal({ signalColor, changeSignal }) {
   return (
     <div>
       <div className="button-container">
@@ -28,3 +30,13 @@ export default function TrafficSignal({ signalColor, changeSignal }) {
     </div>
   );
 }
+
+const mapDispatchToProps = (dispatch) => ({
+  changeSignal: color => dispatch(changeSignal(color)),
+});
+
+const mapStateToProp = (state) => ({
+  signalColor: state.changeSignal.signal.color,
+});
+
+export default connect(mapStateToProp, mapDispatchToProps)(TrafficSignal);

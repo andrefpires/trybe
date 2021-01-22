@@ -31,9 +31,9 @@ const mapDispatchToProps = (dispatch) => ({
 });
 
 const mapStateToProps = (state) => ({
-  redCar: state.cars.red,
-  yellowCar: state.cars.yellow,
-  blueCar: state.cars.blue,
+  redCar: state.cars.cars.red,
+  yellowCar: state.cars.cars.yellow,
+  blueCar: state.cars.cars.blue,
 })
 
 export default connect(mapStateToProps, mapDispatchToProps)(Cars);
