@@ -20,6 +20,12 @@ export default class Forms extends Component {
       address: '',
       city: '',
       countryState: '',
+      addressType: '',
+      experience: '',
+      role: '',
+      roleDescription: '',
+      hasEntered: false,
+      formErrors: {email: '', password: ''},
     };
   }
 
@@ -122,9 +128,9 @@ export default class Forms extends Component {
             Estado:
             <select
               name="countryState"
-              required
               value={this.state.countryState}
               onChange={this.updateState}
+              required
             >
               {countryStates.map((value, key) =>
                 <option key={key}>{value}</option>
@@ -153,6 +159,49 @@ export default class Forms extends Component {
                 required
               />
               Apartamento
+            </label>
+          </div>
+        </fieldset>
+        <fieldset>
+          <legend>Último emprego:</legend>
+          <div>
+            <label>
+              Resumo do currículo:
+              <textarea
+                name="experience"
+                maxLength="1000"
+                value={this.state.experience}
+                onChange={this.verifyCharacters}
+                required
+              />
+            </label>
+          </div>
+          <div>
+            <label>
+              Cargo:
+              <input
+                type="text"
+                name="role"
+                maxLength="40"
+                value={this.state.role}
+                onChange={this.verifyCharacters}
+                onMouseEnter={() => {
+                  alert('Preencha com cuidado esta informação');
+                }}
+                required
+              />
+            </label>
+          </div>
+          <div>
+            <label>
+              Descrição do cargo:
+              <textarea
+                name="roleDescription"
+                maxLength="500"
+                value={this.state.roleDescription}
+                onChange={this.verifyCharacters}
+                required
+              />
             </label>
           </div>
         </fieldset>
