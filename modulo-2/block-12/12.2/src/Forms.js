@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 
 const countryStates = [
-  'Rio de Janeiro',
   'Minas Gerais',
-  'Amapá',
-  'Amazonas',
   'São Paulo',
   'Ceará',
+  'Amapá',
+  'Rio de Janeiro',
+  'Amazonas',
   'Distrito Federal',
 ];
 
@@ -42,12 +42,22 @@ export default class Forms extends Component {
     this.setState(() => ({[name]: value,}));
   };
 
+  disbledRadio = (event) => {
+    const buttons = document.getElementsByClassName('radio');
+    const { name: e } = event.target;
+    for (let i = 0; i < buttons.length; i += 1) {
+      if (buttons[i].name !== e) {
+        buttons[i].disabled = true;
+      }
+    };
+  };
+
   render() {
     return (
       <form>
         <fieldset>
           <legend>Dados pessoais</legend>
-          <div className="container">
+          <div>
             Nome:
             <input
               type="name"
@@ -63,7 +73,7 @@ export default class Forms extends Component {
               }}
             />
           </div>
-          <div className="container">
+          <div>
             Email:
             <input
               type="email"
@@ -74,7 +84,7 @@ export default class Forms extends Component {
               onChange={this.verifyCharacters}
             />
           </div>
-          <div className="container">
+          <div>
             CPF:
             <input
               type="text"
@@ -85,7 +95,7 @@ export default class Forms extends Component {
               onChange={this.verifyCharacters}
             />
           </div>
-          <div className="container">
+          <div>
             Endereço:
             <input
               type="text"
@@ -96,7 +106,7 @@ export default class Forms extends Component {
               onChange={this.verifyCharacters}
             />
           </div>
-          <div className="container">
+          <div>
             Cidade:
             <input
               type="text"
@@ -108,7 +118,7 @@ export default class Forms extends Component {
               onChange={this.verifyCharacters}
             />
           </div>
-          <div className="container">
+          <div>
             Estado:
             <select
               name="countryState"
@@ -121,6 +131,29 @@ export default class Forms extends Component {
                 )
               }
             </select>
+          </div>
+          <div>
+            Resido em:
+            <label>
+              <input
+                type= "radio"
+                name= "casa"
+                className= "radio"
+                onClick={this.disbledRadio}
+                required
+              />
+              Casa
+            </label>
+            <label>
+              <input
+                type= "radio"
+                name= "apartamento"
+                className= "radio"
+                onClick={this.disbledRadio}
+                required
+              />
+              Apartamento
+            </label>
           </div>
         </fieldset>
       </form>
