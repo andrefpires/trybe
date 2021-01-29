@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+  margin: 0 40px 0 40px;
+}
+
+fieldset {
+  margin-top: 20px;
+}
+
+legend {
+  background-color: white;
+  color: black;
+  font-size: 20px;
+}
