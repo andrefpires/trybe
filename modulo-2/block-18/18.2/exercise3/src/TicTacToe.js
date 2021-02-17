@@ -1,5 +1,6 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import GameBoard from './GameBoard';
+import GameContext from './context/GameContext';
 
 class TicTacToe extends React.Component {
   static victoryArchivedInLine(gameBoard) {
@@ -61,6 +62,23 @@ class TicTacToe extends React.Component {
   }
 
   updateState(cellClicked) {
+    // const {
+    //   gameBoard,
+    //   setGameBoard,
+    //   activePlayer,
+    //   setActivePlayer
+    // } = useContext(GameContext);
+    // const newGameBoard = [...gameBoard];
+    // let newActivePlayer = activePlayer;
+
+    // if (gameBoard[cellClicked] === 0) {
+    //   newGameBoard[cellClicked] = activePlayer;
+    //   newActivePlayer = activePlayer === 1 ? 2 : 1;
+    // } else newGameBoard[cellClicked] = gameBoard[cellClicked];
+
+    // setActivePlayer(newActivePlayer);
+    // setGameBoard(newGameBoard);
+
     this.setState((state) => {
       const newState = [...state.gameBoard];
       let newActivePlayer = state.activePlayer;
